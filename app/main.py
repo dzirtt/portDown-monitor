@@ -1,5 +1,5 @@
 import config as cfg
-import sys, bugsapi, utils, os
+import sys, bugsapi, utils, os, db_worker
 import logging as log
 import log_parser
 from pathlib import Path
@@ -14,13 +14,10 @@ def main():
         sys.exit(1)
 
     hwIds = rsyslogFileWork(cfg.rsyslogFilePath)
-    for id in hwIds:
-        print(id)
 
-    #log_parser._clearFile(cfg.rsyslogFilePath)
-    #rsyslogFileWork()
-
-    #print(getHwData('d1115').ip)
+    #db_worker.updateDb(hwIds)
+    db_worker.testDBConnection()
+    print(db_worker.tableIsExist(cfg.db["hwTable"]))
 
     #get file, split by line, extract id\ip, upload to bd
 

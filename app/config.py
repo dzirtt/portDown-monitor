@@ -4,7 +4,8 @@ db = {
     'hostname':'192.168.1.65',
     'dbName':'db_test',
     'user':'test1',
-    'password':'test1'
+    'password':'test1',
+    'hwTable':'hardware'
 }
 
 bugsApiURL='https://bugs.jst/bugs/gethw/?'

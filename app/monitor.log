@@ -974,3 +974,13 @@
 03/31/2018 03:37:51 PM https://bugs.jst/bugs/gethw/?id=11652
 03/31/2018 03:37:51 PM https://bugs.jst/bugs/gethw/?id=11686
 03/31/2018 03:37:51 PM https://bugs.jst/bugs/gethw/?id=594
+03/31/2018 04:00:00 PM cant connect to db with {'password': 'test1', 'hostname': '192.168.1.65', 'user': 'test12', 'dbName': 'db_test'}
+03/31/2018 04:07:17 PM cant connect to db with {'hwTable': 'hardware', 'user': 'test12', 'hostname': '192.168.1.65', 'password': 'test1', 'dbName': 'db_test'}
+03/31/2018 04:16:58 PM cant connect to db with {'hostname': '192.168.1.65', 'password': 'test1', 'dbName': 'db_test', 'user': 'test1', 'hwTable': 'hardware'}
+03/31/2018 04:17:31 PM cant connect to db with {'dbName': 'db_test', 'password': 'test1', 'user': 'test1', 'hostname': '192.168.1.65', 'hwTable': 'hardware'}
+03/31/2018 04:18:05 PM cant connect to db with {'dbName': 'db_test', 'hwTable': 'hardware', 'password': 'test1', 'hostname': '192.168.1.65', 'user': 'test1'}
+03/31/2018 04:26:11 PM cant check table hardware
+03/31/2018 04:26:35 PM cant check table hardware
+03/31/2018 04:27:28 PM cant check table hardware
+03/31/2018 04:28:17 PM cant check table hardware
+03/31/2018 04:28:42 PM cant check table hardware

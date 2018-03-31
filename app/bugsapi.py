@@ -16,6 +16,7 @@ def getData(ip_or_id):
         if( ip_or_id[0] == 'd' ):
             apiurl=cfg.bugsApiURL + 'id=' + ip_or_id[1:]
         else:
+            log.warning("cant work with id {0}".format(ip_or_id))
             return None
 
     log.debug(apiurl)

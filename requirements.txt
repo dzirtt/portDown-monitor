@@ -1,2 +1,2 @@
 #mysql, logger
-IPy=0.83
+PyMySQL=0.8.0
