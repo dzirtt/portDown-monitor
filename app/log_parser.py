@@ -3,14 +3,15 @@ import sys, bugsapi, utils
 import logging as log
 
 def main():
-    #print 'hostname:{0} db_name:{1}'.format(cfg.db["hostname"], cfg.db["dbName"])
     initLogging()
     print(getHwData('d1115').ip)
+
+    #get file, split by line, extract id\ip, upload to bd
+
     sys.exit(0)
 
 def getHwData(ip_or_id):
     data = bugsapi.getData(ip_or_id)
-    
     return data
 
 def initLogging():
