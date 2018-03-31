@@ -1,12 +1,42 @@
 import config as cfg
 import pymysql as mysql
 import logging as log
+import sql_templates
 
 def updateDb(hwid):
+    # db = _openConnection()
+    # cursor = db.cursor()
+    # cursor.execute(template)
     pass
 
-def testDBConnection():
 
+def createTable(template):
+    try:
+        db = _openConnection()
+        cursor = db.cursor()
+        cursor.execute(template)
+
+        db.commit()
+        cursor.close()
+        db.close()
+    except:
+        log.error("cant create table from template {0}".format(template))
+        return False
+
+    return True
+
+def initNewHardwareTables():
+    db = _openConnection()
+    cursor = db.cursor()
+
+    cursor.execute(sql_templates.drop_hardware_table)
+
+    db.commit()
+    db.close()
+
+    createTable(sql_templates.create_hardware_table)
+
+def testDBConnection():
     try:
         db = _openConnection()
         cursor = db.cursor()
@@ -20,9 +50,7 @@ def testDBConnection():
 
     return True
 
-
 def tableIsExist(table):
-
     try:
         db = _openConnection()
         cursor = db.cursor()
@@ -39,6 +67,22 @@ def tableIsExist(table):
 
     return False
 
+def _testQuery(template,*args):
+    try:
+        db = _openConnection()
+        cursor = db.cursor()
+        cursor.execute(template,*args)
+
+        data = cursor.fetchall()
+
+        cursor.close()
+        db.close()
+
+        return data
+
+    except:
+        log.error("cant create table from template {0}".format(template))
+        return False
 
 def _openConnection():
     try:
