@@ -1,23 +1,23 @@
-import config as cfg
-import sys, bugsapi, utils
 import logging as log
 
-def main():
-    initLogging()
-    print(getHwData('d1115').ip)
+def parseAndCleanFile(logFilePath):
+    lines  = _parseFile(logFilePath)
+    #_clearFile(logFilePath)
 
-    #get file, split by line, extract id\ip, upload to bd
+    return lines
 
-    sys.exit(0)
 
-def getHwData(ip_or_id):
-    data = bugsapi.getData(ip_or_id)
-    return data
+def _parseFile(logFilePath):
+    f = open(logFilePath, "r")
+    lines = f.readlines()
+    f.close()
+    return lines
 
-def initLogging():
-    log.basicConfig(filename=cfg.logFilePath,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p',level=log.DEBUG)
-    #alose log to std out
-    log.getLogger().addHandler(log.StreamHandler())
 
-if __name__ == "__main__":
-    main()
+def _clearFile(logFilePath):
+    f = open(logFilePath, "w")
+    f.seek(0)
+    f.truncate()
+    f.close
+
+    log.debug("clear file {0}".format(logFilePath))

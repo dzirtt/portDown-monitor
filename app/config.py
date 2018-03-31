@@ -1,4 +1,4 @@
-
+import os
 #db
 db = {
     'hostname':'192.168.1.65',
@@ -7,6 +7,11 @@ db = {
     'password':'test1'
 }
 
-bugsApiURL="https://bugs.jst/bugs/gethw/?"
+bugsApiURL='https://bugs.jst/bugs/gethw/?'
 
-logFilePath="monitor.log"
+#run srcipt dir
+current_file_dir = os.path.dirname(__file__)
+logFilePath=os.path.join(current_file_dir, 'monitor.log')
+
+#where store rsyslog file
+rsyslogFilePath=os.path.join(current_file_dir, '..\\test\\test.log')
