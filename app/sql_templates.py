@@ -15,8 +15,19 @@ drop_hardware_table="""DROP TABLE `hardware`"""
 
 select_hw_by_ip="""SELECT sw_id, sw_ip, portsdown_count, first_portdown_time
        FROM hardware
-       WHERE sw_ip=%s"""
+       WHERE sw_ip=%s
+       """
 
 select_hw_by_id="""SELECT sw_id, sw_ip, portsdown_count, first_portdown_time
        FROM hardware
-       WHERE sw_id=%s"""
+       WHERE sw_id=%s
+       """
+
+insert_new_hw=""" INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        """
+        
+#insert value
+#nowTime=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
+# args = ("12", None, 1, nowTime)
+# result = db_worker._testQuery(sql_templates.insert_new_hw,args)

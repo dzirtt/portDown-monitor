@@ -1067,3 +1067,33 @@
 03/31/2018 05:06:27 PM cant parse lise "Mar 30 19:54:43 d8797  004439: Qtech8797 %Mar 30 19:54:42 2018 MODULE_PORT[tphyDaemon]:%LINEPROTO-5-UPDOWN: Line protocol on Interface Ethernet1/7, changed state to DOWN
 "
 03/31/2018 06:21:13 PM create new table hardware frrom template 'create_hardware_db''
+03/31/2018 07:18:17 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:18:37 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:19:12 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:22:13 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%d,%s)
+        
+03/31/2018 07:22:42 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:23:13 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:23:34 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:23:55 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:28:01 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        
+03/31/2018 07:41:00 PM cant create table from template  INSERT INTO hardware (sw_id,sw_ip,portsdown_count,first_portdown_time)
+        VALUES (%s,%s,%s,%s)
+        

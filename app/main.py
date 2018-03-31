@@ -1,5 +1,7 @@
 import config as cfg
 import sys, bugsapi, utils, os, db_worker,sql_templates
+import time
+from datetime import datetime, timedelta
 import logging as log
 import log_parser
 from pathlib import Path
@@ -22,8 +24,18 @@ def main():
     #print(len(hwIds))
     #db_worker.updateDb(hwIds)
 
-    data = db_worker._testQuery(sql_templates.select_hw_by_id,"10")
-    print(data[0][0:3])
+    args = ("12")
+    result = db_worker.selectQuery(sql_templates.select_hw_by_id,args)
+    now = datetime.now()
+    delta = timedelta(seconds=120)
+    dateWithDelta = now - delta
+
+    print("delta:{0} || now: {1} || delta: {2}".format(dateWithDelta, now, delta))
+
+    if result[0][3] > dateWithDelta:
+        print("True")
+
+
     #get file, split by line, extract id\ip, upload to bd
 
     sys.exit(0)

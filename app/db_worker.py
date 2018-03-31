@@ -67,22 +67,53 @@ def tableIsExist(table):
 
     return False
 
-def _testQuery(template,*args):
+def _testQuery(template,args):
     try:
         db = _openConnection()
         cursor = db.cursor()
-        cursor.execute(template,*args)
+        cursor.execute(template,args)
+
+        db.commit()
+
+        cursor.close()
+        db.close()
+    except:
+        log.error("cant create table from template {0}".format(template))
+        return False
+
+    return True
+
+def setQuery(template,args):
+    try:
+        db = _openConnection()
+        cursor = db.cursor()
+        cursor.execute(template,args)
+
+        db.commit()
+
+        cursor.close()
+        db.close()
+    except:
+        log.error("cant create table from template {0}".format(template))
+        return False
+
+    return True
+
+def selectQuery(template,args):
+    try:
+        db = _openConnection()
+        cursor = db.cursor()
+        cursor.execute(template,args)
 
         data = cursor.fetchall()
 
         cursor.close()
         db.close()
-
-        return data
-
     except:
         log.error("cant create table from template {0}".format(template))
-        return False
+        return None
+
+    return data
 
 def _openConnection():
     try:
