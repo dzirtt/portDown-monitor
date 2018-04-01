@@ -24405,3 +24405,67 @@
 04/01/2018 02:56:03 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
 04/01/2018 02:56:14 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
 04/01/2018 02:56:24 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 02:57:01 PM cant parse line "
+"
+04/01/2018 02:57:02 PM skip id d713 with value 232
+04/01/2018 02:57:02 PM skip id d9479 with value 12
+04/01/2018 02:57:03 PM skip id d9675 with value 12
+04/01/2018 02:57:03 PM skip id d9985 with value 17
+04/01/2018 02:57:03 PM skip id d9983 with value 10
+04/01/2018 02:57:03 PM skip id d583 with value 232
+04/01/2018 02:57:03 PM skip id d11652 with value 524
+04/01/2018 02:57:03 PM skip id d11134 with value 140
+04/01/2018 02:57:03 PM skip id d11814 with value 57
+04/01/2018 02:57:03 PM skip id d9463 with value 118
+04/01/2018 02:57:04 PM skip id 172.28.110.204 with value 7
+04/01/2018 02:57:04 PM skip id d12193 with value 6
+04/01/2018 02:57:04 PM skip id d11843 with value 517
+04/01/2018 02:57:04 PM skip id d2649 with value 7
+04/01/2018 02:57:04 PM skip id d665 with value 233
+04/01/2018 02:57:04 PM skip id d11750 with value 7
+04/01/2018 02:57:04 PM skip id d9555 with value 26
+04/01/2018 02:57:04 PM skip id d10575 with value 7
+04/01/2018 02:57:05 PM skip id d12450 with value 10
+04/01/2018 02:57:05 PM skip id d594 with value 229
+04/01/2018 02:57:05 PM skip id 172.28.10.251 with value 32
+04/01/2018 02:57:05 PM skip id 172.28.3.129 with value 31
+04/01/2018 02:57:06 PM skip id d9583 with value 7
+04/01/2018 02:57:06 PM skip id d9681 with value 6
+04/01/2018 02:57:07 PM skip id d10484 with value 9
+04/01/2018 02:57:07 PM skip id d8797 with value 8
+04/01/2018 02:57:07 PM skip id 172.28.8.156 with value 32
+04/01/2018 02:57:07 PM skip id d10973 with value 14
+04/01/2018 02:57:07 PM skip id d610 with value 230
+04/01/2018 02:57:08 PM skip id d735 with value 6
+04/01/2018 02:57:39 PM cant parse line "
+"
+04/01/2018 02:57:40 PM skip id d713 with value 232
+04/01/2018 02:57:40 PM skip id d9479 with value 12
+04/01/2018 02:57:40 PM skip id d9675 with value 12
+04/01/2018 02:57:40 PM skip id d9985 with value 17
+04/01/2018 02:57:41 PM skip id d9983 with value 10
+04/01/2018 02:57:41 PM skip id d583 with value 232
+04/01/2018 02:57:41 PM skip id d11652 with value 524
+04/01/2018 02:57:41 PM skip id d11134 with value 140
+04/01/2018 02:57:41 PM skip id d11814 with value 57
+04/01/2018 02:57:41 PM skip id d9463 with value 118
+04/01/2018 02:57:41 PM skip id 172.28.110.204 with value 7
+04/01/2018 02:57:41 PM skip id d12193 with value 6
+04/01/2018 02:57:41 PM skip id d11843 with value 517
+04/01/2018 02:57:41 PM skip id d2649 with value 7
+04/01/2018 02:57:41 PM skip id d665 with value 233
+04/01/2018 02:57:42 PM skip id d11750 with value 7
+04/01/2018 02:57:42 PM skip id d9555 with value 26
+04/01/2018 02:57:42 PM skip id d10575 with value 7
+04/01/2018 02:57:43 PM skip id d12450 with value 10
+04/01/2018 02:57:43 PM skip id d594 with value 229
+04/01/2018 02:57:43 PM skip id 172.28.10.251 with value 32
+04/01/2018 02:57:43 PM skip id 172.28.3.129 with value 31
+04/01/2018 02:57:43 PM skip id d9583 with value 7
+04/01/2018 02:57:44 PM skip id d9681 with value 6
+04/01/2018 02:57:44 PM skip id d10484 with value 9
+04/01/2018 02:57:44 PM skip id d8797 with value 8
+04/01/2018 02:57:44 PM skip id 172.28.8.156 with value 32
+04/01/2018 02:57:45 PM skip id d10973 with value 14
+04/01/2018 02:57:45 PM skip id d610 with value 230
+04/01/2018 02:57:45 PM skip id d735 with value 6
