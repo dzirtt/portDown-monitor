@@ -24469,3 +24469,2753 @@
 04/01/2018 02:57:45 PM skip id d10973 with value 14
 04/01/2018 02:57:45 PM skip id d610 with value 230
 04/01/2018 02:57:45 PM skip id d735 with value 6
+04/01/2018 03:02:51 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:02:51 PM 0 lines : check by 0.002001 seconds
+04/01/2018 03:03:02 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:03:02 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:03:12 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:03:12 PM cant parse line "
+"
+04/01/2018 03:03:12 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:12 PM Changes commit state: True
+04/01/2018 03:03:12 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:12 PM Changes commit state: True
+04/01/2018 03:03:12 PM skip id d10575 with value 7
+04/01/2018 03:03:12 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:12 PM Changes commit state: True
+04/01/2018 03:03:12 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:12 PM Changes commit state: True
+04/01/2018 03:03:12 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:12 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM skip id d9583 with value 7
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM skip id d9479 with value 12
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM skip id d11652 with value 524
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM skip id d11814 with value 57
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:13 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:13 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM skip id d9675 with value 12
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM skip id d735 with value 6
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM skip id 172.28.8.156 with value 32
+04/01/2018 03:03:14 PM skip id d9983 with value 10
+04/01/2018 03:03:14 PM skip id d2649 with value 7
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM skip id d594 with value 229
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM skip id d9681 with value 6
+04/01/2018 03:03:14 PM skip id d583 with value 232
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM skip id d11750 with value 7
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:14 PM Changes commit state: True
+04/01/2018 03:03:14 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM skip id d665 with value 233
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM skip id 172.28.10.251 with value 32
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM skip id 172.28.110.204 with value 7
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM skip id d9555 with value 26
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM skip id 172.28.3.129 with value 31
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM skip id d713 with value 232
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:15 PM Changes commit state: True
+04/01/2018 03:03:15 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM skip id d11134 with value 140
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM skip id d8797 with value 8
+04/01/2018 03:03:16 PM skip id d12450 with value 10
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM skip id d12193 with value 6
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:16 PM Changes commit state: True
+04/01/2018 03:03:16 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM skip id d10973 with value 14
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM skip id d10484 with value 9
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM skip id d9985 with value 17
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM skip id d610 with value 230
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM skip id d9463 with value 118
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:17 PM Changes commit state: True
+04/01/2018 03:03:17 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM skip id d11843 with value 517
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM reset counter, current deltaTime:370.819896, cfg.deltaTime:300
+04/01/2018 03:03:18 PM Changes commit state: True
+04/01/2018 03:03:18 PM 308 lines : check by 5.889337 seconds
+04/01/2018 03:03:29 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:03:29 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:03:39 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:03:39 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:03:50 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:03:50 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:04:00 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:04:00 PM cant parse line "
+"
+04/01/2018 03:04:00 PM update port counter on hw:d11751 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:d11620 counter:4
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM skip id d10575 with value 7
+04/01/2018 03:04:00 PM update port counter on hw:172.28.105.245 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:172.28.17.11 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:d9939 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:172.28.110.218 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:d9933 counter:4
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:172.28.13.62 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:172.28.104.146 counter:2
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM update port counter on hw:d11495 counter:3
+04/01/2018 03:04:00 PM Changes commit state: True
+04/01/2018 03:04:00 PM skip id d9583 with value 7
+04/01/2018 03:04:01 PM update port counter on hw:d9868 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11499 counter:6
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id d9479 with value 12
+04/01/2018 03:04:01 PM update port counter on hw:172.28.3.43 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id d11652 with value 524
+04/01/2018 03:04:01 PM update port counter on hw:172.28.0.163 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.28.212 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11686 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d12452 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d10727 counter:4
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d9293 counter:5
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d550 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.50.57 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.108.221 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11725 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11305 counter:6
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d10527 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.29.12 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.103.219 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d9677 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11614 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d579 counter:5
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.17.67 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.16.233 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d10470 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d12427 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.14.230 counter:4
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11389 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.110.194 counter:5
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d10681 counter:5
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d8568 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d745 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d10848 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.100.185 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d590 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id d11814 with value 57
+04/01/2018 03:04:01 PM update port counter on hw:d12414 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d684 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11648 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.117.140 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.29.116 counter:4
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d10821 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.7.224 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.17.68 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d8999 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id d9675 with value 12
+04/01/2018 03:04:01 PM update port counter on hw:d11139 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11367 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.9.249 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id d735 with value 6
+04/01/2018 03:04:01 PM update port counter on hw:d11496 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d9661 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.102.199 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.18.181 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id 172.28.8.156 with value 32
+04/01/2018 03:04:01 PM skip id d9983 with value 10
+04/01/2018 03:04:01 PM skip id d2649 with value 7
+04/01/2018 03:04:01 PM update port counter on hw:d8714 counter:5
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d11381 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d687 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d600 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d9059 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:d691 counter:2
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM update port counter on hw:172.28.50.35 counter:3
+04/01/2018 03:04:01 PM Changes commit state: True
+04/01/2018 03:04:01 PM skip id d594 with value 229
+04/01/2018 03:04:01 PM update port counter on hw:172.28.102.104 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10551 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.104.218 counter:5
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d12439 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11556 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11153 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d9789 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10460 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10607 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d9011 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM skip id d9681 with value 6
+04/01/2018 03:04:02 PM skip id d583 with value 232
+04/01/2018 03:04:02 PM update port counter on hw:172.28.15.144 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10849 counter:4
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d9994 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d9936 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11453 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11357 counter:5
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d9688 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.3.125 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d12036 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d8580 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11884 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.3.100 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11551 counter:4
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11672 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM skip id d11750 with value 7
+04/01/2018 03:04:02 PM update port counter on hw:d11172 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d12341 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.112.250 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10642 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11554 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.16.223 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM skip id d665 with value 233
+04/01/2018 03:04:02 PM update port counter on hw:172.28.10.44 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11362 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.20.163 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11609 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d12440 counter:3
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.103.217 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d7925 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.50.33 counter:5
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM skip id 172.28.10.251 with value 32
+04/01/2018 03:04:02 PM update port counter on hw:d9722 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10852 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.103.59 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11649 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d10787 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:172.28.116.73 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11394 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d11737 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:02 PM update port counter on hw:d689 counter:2
+04/01/2018 03:04:02 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d707 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.8.136 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11547 counter:6
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d10635 counter:4
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.9.166 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11135 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d12339 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.19.105 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d12242 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM skip id 172.28.110.204 with value 7
+04/01/2018 03:04:03 PM update port counter on hw:d10696 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.100.171 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.10.250 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d7434 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.11.206 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM skip id d9555 with value 26
+04/01/2018 03:04:03 PM update port counter on hw:172.28.106.173 counter:6
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d10650 counter:4
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.17.26 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d9934 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.120.194 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11738 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM skip id 172.28.3.129 with value 31
+04/01/2018 03:04:03 PM update port counter on hw:172.28.104.35 counter:6
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.112.184 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d12428 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.14.238 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM skip id d713 with value 232
+04/01/2018 03:04:03 PM update port counter on hw:d12364 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11356 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d598 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11657 counter:6
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.13.76 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11581 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.100.118 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM skip id d11134 with value 140
+04/01/2018 03:04:03 PM update port counter on hw:d11702 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d12258 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11650 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d697 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.102.181 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d10761 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d10566 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11508 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM skip id d8797 with value 8
+04/01/2018 03:04:03 PM skip id d12450 with value 10
+04/01/2018 03:04:03 PM update port counter on hw:172.28.110.214 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11778 counter:4
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d12454 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11636 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d10633 counter:4
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11546 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d11582 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.2.48 counter:6
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:d9984 counter:3
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:03 PM update port counter on hw:172.28.29.133 counter:2
+04/01/2018 03:04:03 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d659 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d10753 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM skip id d12193 with value 6
+04/01/2018 03:04:04 PM update port counter on hw:d10715 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d128 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d12281 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.29.47 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.6.151 counter:5
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11548 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11242 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.7.62 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d12400 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.50.59 counter:5
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d9291 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d10896 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11729 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.104.221 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11818 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d10557 counter:4
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11822 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d6819 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d12207 counter:4
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11375 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d12403 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d573 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d8534 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11096 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d9822 counter:4
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11826 counter:4
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11168 counter:6
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.104.60 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11634 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.100.21 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.6.72 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:172.28.3.21 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d9683 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM skip id d10973 with value 14
+04/01/2018 03:04:04 PM update port counter on hw:d727 counter:5
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11335 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d10726 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM skip id d10484 with value 9
+04/01/2018 03:04:04 PM update port counter on hw:d11500 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d9586 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d9692 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d12262 counter:2
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:04 PM update port counter on hw:d11318 counter:3
+04/01/2018 03:04:04 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11876 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.9.19 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d551 counter:5
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d12199 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.103.27 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11365 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.14.241 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.110.203 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d10893 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.120.20 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d10805 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11842 counter:6
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.16.45 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11562 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11338 counter:4
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d10491 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d10734 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d653 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11354 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.29.81 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d10627 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11511 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.103.204 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM skip id d9985 with value 17
+04/01/2018 03:04:05 PM update port counter on hw:172.28.29.39 counter:6
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11427 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11166 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM skip id d610 with value 230
+04/01/2018 03:04:05 PM update port counter on hw:d9986 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11558 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.10.138 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d703 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11543 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11700 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11264 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM skip id d9463 with value 118
+04/01/2018 03:04:05 PM update port counter on hw:d12197 counter:5
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11256 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11388 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.9.223 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11635 counter:5
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.110.215 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.16.25 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11771 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d12279 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d9953 counter:5
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d10701 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11693 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d711 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:172.28.16.216 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM skip id d11843 with value 517
+04/01/2018 03:04:05 PM update port counter on hw:d12237 counter:3
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:05 PM update port counter on hw:d11914 counter:2
+04/01/2018 03:04:05 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.16.201 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.110.26 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.11.103 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.14.237 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.7.118 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d9394 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.29.79 counter:3
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d11658 counter:4
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d11239 counter:4
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.10.179 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d10861 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d10554 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d10532 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d11378 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d9589 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.9.38 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d10472 counter:3
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.4.250 counter:3
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d9700 counter:3
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.11.118 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.29.63 counter:3
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d11165 counter:3
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:172.28.29.73 counter:2
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM update port counter on hw:d10741 counter:4
+04/01/2018 03:04:06 PM Changes commit state: True
+04/01/2018 03:04:06 PM 308 lines : check by 5.784331 seconds
+04/01/2018 03:05:48 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:05:48 PM 0 lines : check by 0.002 seconds
+04/01/2018 03:05:58 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:05:58 PM cant parse line "
+"
+04/01/2018 03:05:58 PM insert new hw id d12199 state: True
+04/01/2018 03:05:58 PM insert new hw id 172.28.102.181 state: True
+04/01/2018 03:05:58 PM insert new hw id d11738 state: True
+04/01/2018 03:05:58 PM skip id d9681 with value 6
+04/01/2018 03:05:58 PM skip id d11750 with value 7
+04/01/2018 03:05:58 PM insert new hw id 172.28.116.73 state: True
+04/01/2018 03:05:58 PM insert new hw id d7434 state: True
+04/01/2018 03:05:58 PM skip id d10575 with value 7
+04/01/2018 03:05:58 PM insert new hw id d11394 state: True
+04/01/2018 03:05:58 PM insert new hw id d12454 state: True
+04/01/2018 03:05:58 PM insert new hw id d12242 state: True
+04/01/2018 03:05:58 PM insert new hw id d11139 state: True
+04/01/2018 03:05:58 PM insert new hw id 172.28.15.144 state: True
+04/01/2018 03:05:58 PM insert new hw id d11499 state: True
+04/01/2018 03:05:58 PM skip id d12193 with value 6
+04/01/2018 03:05:58 PM insert new hw id 172.28.11.103 state: True
+04/01/2018 03:05:58 PM insert new hw id 172.28.11.206 state: True
+04/01/2018 03:05:59 PM insert new hw id d707 state: True
+04/01/2018 03:05:59 PM insert new hw id d11551 state: True
+04/01/2018 03:05:59 PM skip id d610 with value 230
+04/01/2018 03:05:59 PM insert new hw id d11318 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.16.233 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.2.48 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.18.181 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.16.223 state: True
+04/01/2018 03:05:59 PM insert new hw id d11657 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.20.163 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.29.73 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.29.81 state: True
+04/01/2018 03:05:59 PM insert new hw id d12036 state: True
+04/01/2018 03:05:59 PM insert new hw id d10715 state: True
+04/01/2018 03:05:59 PM insert new hw id d10627 state: True
+04/01/2018 03:05:59 PM insert new hw id d11356 state: True
+04/01/2018 03:05:59 PM insert new hw id d11367 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.10.44 state: True
+04/01/2018 03:05:59 PM insert new hw id d12281 state: True
+04/01/2018 03:05:59 PM insert new hw id d9683 state: True
+04/01/2018 03:05:59 PM insert new hw id d12403 state: True
+04/01/2018 03:05:59 PM insert new hw id d11362 state: True
+04/01/2018 03:05:59 PM insert new hw id d10861 state: True
+04/01/2018 03:05:59 PM insert new hw id d10633 state: True
+04/01/2018 03:05:59 PM insert new hw id d11547 state: True
+04/01/2018 03:05:59 PM insert new hw id d11388 state: True
+04/01/2018 03:05:59 PM insert new hw id d8999 state: True
+04/01/2018 03:05:59 PM insert new hw id d11365 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.16.45 state: True
+04/01/2018 03:05:59 PM insert new hw id d11242 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.106.173 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.50.57 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.7.62 state: True
+04/01/2018 03:05:59 PM insert new hw id d659 state: True
+04/01/2018 03:05:59 PM insert new hw id d10741 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.3.125 state: True
+04/01/2018 03:05:59 PM insert new hw id d9933 state: True
+04/01/2018 03:05:59 PM insert new hw id d573 state: True
+04/01/2018 03:05:59 PM insert new hw id d11826 state: True
+04/01/2018 03:05:59 PM skip id d9463 with value 118
+04/01/2018 03:05:59 PM insert new hw id d11609 state: True
+04/01/2018 03:05:59 PM insert new hw id 172.28.104.35 state: True
+04/01/2018 03:05:59 PM insert new hw id d11778 state: True
+04/01/2018 03:05:59 PM skip id d665 with value 233
+04/01/2018 03:05:59 PM insert new hw id 172.28.120.194 state: True
+04/01/2018 03:05:59 PM insert new hw id d11914 state: True
+04/01/2018 03:05:59 PM insert new hw id d727 state: True
+04/01/2018 03:06:00 PM insert new hw id d11264 state: True
+04/01/2018 03:06:00 PM insert new hw id d12452 state: True
+04/01/2018 03:06:00 PM insert new hw id d9868 state: True
+04/01/2018 03:06:00 PM insert new hw id d11495 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.6.72 state: True
+04/01/2018 03:06:00 PM insert new hw id d11239 state: True
+04/01/2018 03:06:00 PM insert new hw id d12207 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.28.212 state: True
+04/01/2018 03:06:00 PM insert new hw id d9936 state: True
+04/01/2018 03:06:00 PM skip id 172.28.10.251 with value 32
+04/01/2018 03:06:00 PM insert new hw id d9059 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.11.118 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.29.63 state: True
+04/01/2018 03:06:00 PM insert new hw id d11511 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.14.238 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.100.118 state: True
+04/01/2018 03:06:00 PM insert new hw id d9677 state: True
+04/01/2018 03:06:00 PM insert new hw id d10852 state: True
+04/01/2018 03:06:00 PM insert new hw id d12339 state: True
+04/01/2018 03:06:00 PM insert new hw id d687 state: True
+04/01/2018 03:06:00 PM insert new hw id d9722 state: True
+04/01/2018 03:06:00 PM skip id d9583 with value 7
+04/01/2018 03:06:00 PM insert new hw id d11822 state: True
+04/01/2018 03:06:00 PM insert new hw id d9822 state: True
+04/01/2018 03:06:00 PM insert new hw id d12197 state: True
+04/01/2018 03:06:00 PM insert new hw id d11335 state: True
+04/01/2018 03:06:00 PM insert new hw id d10821 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.0.163 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.108.221 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.29.116 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.29.133 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.104.60 state: True
+04/01/2018 03:06:00 PM insert new hw id d10551 state: True
+04/01/2018 03:06:00 PM insert new hw id d10848 state: True
+04/01/2018 03:06:00 PM insert new hw id d12262 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.110.218 state: True
+04/01/2018 03:06:00 PM insert new hw id d12237 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.13.62 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.9.19 state: True
+04/01/2018 03:06:00 PM insert new hw id d9984 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.14.230 state: True
+04/01/2018 03:06:00 PM insert new hw id d590 state: True
+04/01/2018 03:06:00 PM insert new hw id d12414 state: True
+04/01/2018 03:06:00 PM insert new hw id d11354 state: True
+04/01/2018 03:06:00 PM skip id d713 with value 232
+04/01/2018 03:06:00 PM insert new hw id 172.28.7.118 state: True
+04/01/2018 03:06:00 PM insert new hw id d10607 state: True
+04/01/2018 03:06:00 PM skip id d11652 with value 524
+04/01/2018 03:06:00 PM insert new hw id d10642 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.104.146 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.100.21 state: True
+04/01/2018 03:06:00 PM insert new hw id d689 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.3.100 state: True
+04/01/2018 03:06:00 PM insert new hw id d653 state: True
+04/01/2018 03:06:00 PM insert new hw id 172.28.9.38 state: True
+04/01/2018 03:06:00 PM insert new hw id d11648 state: True
+04/01/2018 03:06:00 PM insert new hw id d10849 state: True
+04/01/2018 03:06:00 PM skip id 172.28.3.129 with value 31
+04/01/2018 03:06:01 PM insert new hw id d10650 state: True
+04/01/2018 03:06:01 PM insert new hw id d9394 state: True
+04/01/2018 03:06:01 PM insert new hw id d8534 state: True
+04/01/2018 03:06:01 PM insert new hw id d10727 state: True
+04/01/2018 03:06:01 PM insert new hw id d11729 state: True
+04/01/2018 03:06:01 PM skip id d9555 with value 26
+04/01/2018 03:06:01 PM insert new hw id d10491 state: True
+04/01/2018 03:06:01 PM insert new hw id d11153 state: True
+04/01/2018 03:06:01 PM insert new hw id d11558 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.19.105 state: True
+04/01/2018 03:06:01 PM insert new hw id d11427 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.9.249 state: True
+04/01/2018 03:06:01 PM skip id 172.28.110.204 with value 7
+04/01/2018 03:06:01 PM insert new hw id d10734 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.9.223 state: True
+04/01/2018 03:06:01 PM insert new hw id d11338 state: True
+04/01/2018 03:06:01 PM insert new hw id d11554 state: True
+04/01/2018 03:06:01 PM insert new hw id d9934 state: True
+04/01/2018 03:06:01 PM insert new hw id d691 state: True
+04/01/2018 03:06:01 PM insert new hw id d11543 state: True
+04/01/2018 03:06:01 PM insert new hw id d551 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.110.214 state: True
+04/01/2018 03:06:01 PM skip id d2649 with value 7
+04/01/2018 03:06:01 PM insert new hw id d697 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.29.47 state: True
+04/01/2018 03:06:01 PM insert new hw id d10635 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.103.204 state: True
+04/01/2018 03:06:01 PM insert new hw id d11700 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.3.43 state: True
+04/01/2018 03:06:01 PM insert new hw id d11771 state: True
+04/01/2018 03:06:01 PM insert new hw id d11842 state: True
+04/01/2018 03:06:01 PM insert new hw id d10893 state: True
+04/01/2018 03:06:01 PM insert new hw id d11693 state: True
+04/01/2018 03:06:01 PM insert new hw id d11636 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.29.39 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.120.20 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.10.138 state: True
+04/01/2018 03:06:01 PM insert new hw id d11378 state: True
+04/01/2018 03:06:01 PM insert new hw id d12440 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.29.12 state: True
+04/01/2018 03:06:01 PM insert new hw id d550 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.110.215 state: True
+04/01/2018 03:06:01 PM insert new hw id d10470 state: True
+04/01/2018 03:06:01 PM insert new hw id d11389 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.104.221 state: True
+04/01/2018 03:06:01 PM insert new hw id d11737 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.10.250 state: True
+04/01/2018 03:06:01 PM insert new hw id d11096 state: True
+04/01/2018 03:06:01 PM insert new hw id d12439 state: True
+04/01/2018 03:06:01 PM insert new hw id d684 state: True
+04/01/2018 03:06:01 PM insert new hw id 172.28.104.218 state: True
+04/01/2018 03:06:01 PM insert new hw id d11508 state: True
+04/01/2018 03:06:01 PM insert new hw id d11165 state: True
+04/01/2018 03:06:01 PM insert new hw id d11582 state: True
+04/01/2018 03:06:01 PM skip id d9479 with value 12
+04/01/2018 03:06:01 PM skip id d11814 with value 57
+04/01/2018 03:06:01 PM insert new hw id 172.28.17.67 state: True
+04/01/2018 03:06:01 PM insert new hw id d11375 state: True
+04/01/2018 03:06:02 PM insert new hw id d10896 state: True
+04/01/2018 03:06:02 PM insert new hw id d11166 state: True
+04/01/2018 03:06:02 PM skip id d583 with value 232
+04/01/2018 03:06:02 PM insert new hw id d9291 state: True
+04/01/2018 03:06:02 PM insert new hw id d579 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.50.33 state: True
+04/01/2018 03:06:02 PM insert new hw id d11168 state: True
+04/01/2018 03:06:02 PM insert new hw id d11818 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.17.26 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.16.216 state: True
+04/01/2018 03:06:02 PM skip id d11134 with value 140
+04/01/2018 03:06:02 PM insert new hw id d12341 state: True
+04/01/2018 03:06:02 PM insert new hw id d11256 state: True
+04/01/2018 03:06:02 PM skip id d9985 with value 17
+04/01/2018 03:06:02 PM insert new hw id d9586 state: True
+04/01/2018 03:06:02 PM insert new hw id d11172 state: True
+04/01/2018 03:06:02 PM insert new hw id d12400 state: True
+04/01/2018 03:06:02 PM insert new hw id d11634 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.117.140 state: True
+04/01/2018 03:06:02 PM skip id d11843 with value 517
+04/01/2018 03:06:02 PM insert new hw id d10761 state: True
+04/01/2018 03:06:02 PM insert new hw id d10726 state: True
+04/01/2018 03:06:02 PM insert new hw id d9661 state: True
+04/01/2018 03:06:02 PM insert new hw id d11453 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.6.151 state: True
+04/01/2018 03:06:02 PM insert new hw id d11357 state: True
+04/01/2018 03:06:02 PM insert new hw id d11614 state: True
+04/01/2018 03:06:02 PM skip id d594 with value 229
+04/01/2018 03:06:02 PM insert new hw id d11548 state: True
+04/01/2018 03:06:02 PM insert new hw id d11725 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.103.217 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.17.68 state: True
+04/01/2018 03:06:02 PM insert new hw id d9688 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.4.250 state: True
+04/01/2018 03:06:02 PM insert new hw id d745 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.102.199 state: True
+04/01/2018 03:06:02 PM insert new hw id d11672 state: True
+04/01/2018 03:06:02 PM insert new hw id d8714 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.13.76 state: True
+04/01/2018 03:06:02 PM skip id d10973 with value 14
+04/01/2018 03:06:02 PM insert new hw id d10787 state: True
+04/01/2018 03:06:02 PM insert new hw id d10681 state: True
+04/01/2018 03:06:02 PM insert new hw id d11496 state: True
+04/01/2018 03:06:02 PM insert new hw id d7925 state: True
+04/01/2018 03:06:02 PM insert new hw id d10805 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.110.194 state: True
+04/01/2018 03:06:02 PM insert new hw id d11546 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.112.184 state: True
+04/01/2018 03:06:02 PM insert new hw id d6819 state: True
+04/01/2018 03:06:02 PM skip id d10484 with value 9
+04/01/2018 03:06:02 PM insert new hw id 172.28.103.219 state: True
+04/01/2018 03:06:02 PM insert new hw id d10527 state: True
+04/01/2018 03:06:02 PM insert new hw id d10460 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.9.166 state: True
+04/01/2018 03:06:02 PM insert new hw id d12258 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.7.224 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.16.201 state: True
+04/01/2018 03:06:02 PM insert new hw id d10532 state: True
+04/01/2018 03:06:02 PM insert new hw id d9953 state: True
+04/01/2018 03:06:02 PM insert new hw id d10557 state: True
+04/01/2018 03:06:02 PM insert new hw id 172.28.50.59 state: True
+04/01/2018 03:06:02 PM insert new hw id d11562 state: True
+04/01/2018 03:06:02 PM insert new hw id d10554 state: True
+04/01/2018 03:06:02 PM insert new hw id d11620 state: True
+04/01/2018 03:06:03 PM insert new hw id d11500 state: True
+04/01/2018 03:06:03 PM insert new hw id d11876 state: True
+04/01/2018 03:06:03 PM insert new hw id d8568 state: True
+04/01/2018 03:06:03 PM insert new hw id d9692 state: True
+04/01/2018 03:06:03 PM skip id d735 with value 6
+04/01/2018 03:06:03 PM skip id d9675 with value 12
+04/01/2018 03:06:03 PM insert new hw id d11635 state: True
+04/01/2018 03:06:03 PM insert new hw id d11686 state: True
+04/01/2018 03:06:03 PM insert new hw id 172.28.10.179 state: True
+04/01/2018 03:06:03 PM insert new hw id 172.28.14.237 state: True
+04/01/2018 03:06:03 PM insert new hw id d12428 state: True
+04/01/2018 03:06:03 PM insert new hw id d9994 state: True
+04/01/2018 03:06:03 PM insert new hw id 172.28.110.26 state: True
+04/01/2018 03:06:03 PM insert new hw id d10472 state: True
+04/01/2018 03:06:03 PM insert new hw id d11702 state: True
+04/01/2018 03:06:03 PM skip id 172.28.8.156 with value 32
+04/01/2018 03:06:03 PM insert new hw id d9789 state: True
+04/01/2018 03:06:03 PM insert new hw id d12364 state: True
+04/01/2018 03:06:03 PM insert new hw id d11135 state: True
+04/01/2018 03:06:03 PM insert new hw id d703 state: True
+04/01/2018 03:06:03 PM insert new hw id d9589 state: True
+04/01/2018 03:06:03 PM insert new hw id d9939 state: True
+04/01/2018 03:06:03 PM insert new hw id 172.28.105.245 state: True
+04/01/2018 03:06:03 PM insert new hw id d8580 state: True
+04/01/2018 03:06:03 PM insert new hw id d598 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.100.171 state: True
+04/01/2018 03:06:06 PM insert new hw id d11556 state: True
+04/01/2018 03:06:06 PM insert new hw id d11305 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.112.250 state: True
+04/01/2018 03:06:06 PM insert new hw id d128 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.100.185 state: True
+04/01/2018 03:06:06 PM insert new hw id d11381 state: True
+04/01/2018 03:06:06 PM insert new hw id d11658 state: True
+04/01/2018 03:06:06 PM insert new hw id d711 state: True
+04/01/2018 03:06:06 PM skip id d8797 with value 8
+04/01/2018 03:06:06 PM insert new hw id 172.28.50.35 state: True
+04/01/2018 03:06:06 PM insert new hw id d10701 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.8.136 state: True
+04/01/2018 03:06:06 PM insert new hw id d9700 state: True
+04/01/2018 03:06:06 PM insert new hw id d11649 state: True
+04/01/2018 03:06:06 PM insert new hw id d11884 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.3.21 state: True
+04/01/2018 03:06:06 PM insert new hw id d10696 state: True
+04/01/2018 03:06:06 PM insert new hw id d12279 state: True
+04/01/2018 03:06:06 PM skip id d9983 with value 10
+04/01/2018 03:06:06 PM insert new hw id 172.28.29.79 state: True
+04/01/2018 03:06:06 PM insert new hw id d11650 state: True
+04/01/2018 03:06:06 PM insert new hw id d9986 state: True
+04/01/2018 03:06:06 PM insert new hw id d600 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.16.25 state: True
+04/01/2018 03:06:06 PM insert new hw id d9011 state: True
+04/01/2018 03:06:06 PM insert new hw id d12427 state: True
+04/01/2018 03:06:06 PM insert new hw id d10753 state: True
+04/01/2018 03:06:06 PM insert new hw id d9293 state: True
+04/01/2018 03:06:06 PM skip id d12450 with value 10
+04/01/2018 03:06:06 PM insert new hw id 172.28.14.241 state: True
+04/01/2018 03:06:06 PM insert new hw id d10566 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.110.203 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.102.104 state: True
+04/01/2018 03:06:06 PM insert new hw id d11581 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.103.27 state: True
+04/01/2018 03:06:06 PM insert new hw id d11751 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.17.11 state: True
+04/01/2018 03:06:06 PM insert new hw id 172.28.103.59 state: True
+04/01/2018 03:06:06 PM 308 lines : check by 8.134465 seconds
+04/01/2018 03:06:17 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:06:17 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:06:27 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:06:27 PM cant parse line "
+"
+04/01/2018 03:06:27 PM insert new hw id d10532 state: True
+04/01/2018 03:06:27 PM insert new hw id d10726 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.6.151 state: True
+04/01/2018 03:06:27 PM skip id d11843 with value 517
+04/01/2018 03:06:27 PM insert new hw id d11135 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.11.103 state: True
+04/01/2018 03:06:27 PM insert new hw id d10551 state: True
+04/01/2018 03:06:27 PM insert new hw id d11609 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.117.140 state: True
+04/01/2018 03:06:27 PM skip id d10575 with value 7
+04/01/2018 03:06:27 PM insert new hw id 172.28.29.116 state: True
+04/01/2018 03:06:27 PM insert new hw id d10607 state: True
+04/01/2018 03:06:27 PM insert new hw id d9934 state: True
+04/01/2018 03:06:27 PM insert new hw id d550 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.29.133 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.102.199 state: True
+04/01/2018 03:06:27 PM skip id d610 with value 230
+04/01/2018 03:06:27 PM insert new hw id d11166 state: True
+04/01/2018 03:06:27 PM insert new hw id d9692 state: True
+04/01/2018 03:06:27 PM insert new hw id d11634 state: True
+04/01/2018 03:06:27 PM insert new hw id d11614 state: True
+04/01/2018 03:06:27 PM insert new hw id d10896 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.0.163 state: True
+04/01/2018 03:06:27 PM insert new hw id d12414 state: True
+04/01/2018 03:06:27 PM insert new hw id d11548 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.17.67 state: True
+04/01/2018 03:06:27 PM insert new hw id d11242 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.102.181 state: True
+04/01/2018 03:06:27 PM insert new hw id d10893 state: True
+04/01/2018 03:06:27 PM insert new hw id d12364 state: True
+04/01/2018 03:06:27 PM insert new hw id d11778 state: True
+04/01/2018 03:06:27 PM insert new hw id d11650 state: True
+04/01/2018 03:06:27 PM insert new hw id d10787 state: True
+04/01/2018 03:06:27 PM insert new hw id d11165 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.10.138 state: True
+04/01/2018 03:06:27 PM insert new hw id d11495 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.110.214 state: True
+04/01/2018 03:06:27 PM insert new hw id 172.28.9.19 state: True
+04/01/2018 03:06:28 PM insert new hw id d9700 state: True
+04/01/2018 03:06:28 PM insert new hw id d11378 state: True
+04/01/2018 03:06:28 PM insert new hw id d579 state: True
+04/01/2018 03:06:28 PM insert new hw id d10554 state: True
+04/01/2018 03:06:28 PM insert new hw id d9059 state: True
+04/01/2018 03:06:28 PM insert new hw id d11554 state: True
+04/01/2018 03:06:28 PM skip id d9675 with value 12
+04/01/2018 03:06:28 PM insert new hw id d573 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.9.223 state: True
+04/01/2018 03:06:28 PM insert new hw id d10727 state: True
+04/01/2018 03:06:28 PM insert new hw id d11551 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.29.79 state: True
+04/01/2018 03:06:28 PM insert new hw id d11700 state: True
+04/01/2018 03:06:28 PM insert new hw id d11658 state: True
+04/01/2018 03:06:28 PM insert new hw id d11547 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.10.179 state: True
+04/01/2018 03:06:28 PM insert new hw id d10852 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.13.76 state: True
+04/01/2018 03:06:28 PM skip id d713 with value 232
+04/01/2018 03:06:28 PM insert new hw id 172.28.103.217 state: True
+04/01/2018 03:06:28 PM insert new hw id d11362 state: True
+04/01/2018 03:06:28 PM insert new hw id d598 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.17.26 state: True
+04/01/2018 03:06:28 PM insert new hw id d11357 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.14.230 state: True
+04/01/2018 03:06:28 PM insert new hw id d11338 state: True
+04/01/2018 03:06:28 PM insert new hw id d8714 state: True
+04/01/2018 03:06:28 PM skip id d583 with value 232
+04/01/2018 03:06:28 PM insert new hw id d10701 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.7.118 state: True
+04/01/2018 03:06:28 PM insert new hw id d10734 state: True
+04/01/2018 03:06:28 PM insert new hw id d11558 state: True
+04/01/2018 03:06:28 PM skip id d10484 with value 9
+04/01/2018 03:06:28 PM insert new hw id d11367 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.29.73 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.103.204 state: True
+04/01/2018 03:06:28 PM insert new hw id d10753 state: True
+04/01/2018 03:06:28 PM insert new hw id d11582 state: True
+04/01/2018 03:06:28 PM insert new hw id d11256 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.106.173 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.16.45 state: True
+04/01/2018 03:06:28 PM insert new hw id d9683 state: True
+04/01/2018 03:06:28 PM insert new hw id d11356 state: True
+04/01/2018 03:06:28 PM insert new hw id 172.28.9.166 state: True
+04/01/2018 03:06:28 PM insert new hw id d11914 state: True
+04/01/2018 03:06:29 PM insert new hw id d7925 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.9.249 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.4.250 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.29.12 state: True
+04/01/2018 03:06:29 PM skip id d12450 with value 10
+04/01/2018 03:06:29 PM insert new hw id d11543 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.17.11 state: True
+04/01/2018 03:06:29 PM insert new hw id d9589 state: True
+04/01/2018 03:06:29 PM skip id d11814 with value 57
+04/01/2018 03:06:29 PM insert new hw id d12237 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.50.57 state: True
+04/01/2018 03:06:29 PM insert new hw id d703 state: True
+04/01/2018 03:06:29 PM insert new hw id d11375 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.14.241 state: True
+04/01/2018 03:06:29 PM insert new hw id d551 state: True
+04/01/2018 03:06:29 PM insert new hw id d10470 state: True
+04/01/2018 03:06:29 PM insert new hw id d9291 state: True
+04/01/2018 03:06:29 PM insert new hw id d12199 state: True
+04/01/2018 03:06:29 PM insert new hw id d11737 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.105.245 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.120.194 state: True
+04/01/2018 03:06:29 PM insert new hw id d11318 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.120.20 state: True
+04/01/2018 03:06:29 PM insert new hw id d10633 state: True
+04/01/2018 03:06:29 PM insert new hw id d11657 state: True
+04/01/2018 03:06:29 PM skip id d8797 with value 8
+04/01/2018 03:06:29 PM insert new hw id 172.28.16.201 state: True
+04/01/2018 03:06:29 PM insert new hw id d10805 state: True
+04/01/2018 03:06:29 PM insert new hw id d9984 state: True
+04/01/2018 03:06:29 PM insert new hw id d11884 state: True
+04/01/2018 03:06:29 PM insert new hw id d12197 state: True
+04/01/2018 03:06:29 PM insert new hw id d8568 state: True
+04/01/2018 03:06:29 PM skip id d12193 with value 6
+04/01/2018 03:06:29 PM insert new hw id 172.28.50.33 state: True
+04/01/2018 03:06:29 PM skip id d594 with value 229
+04/01/2018 03:06:29 PM insert new hw id d659 state: True
+04/01/2018 03:06:29 PM insert new hw id d687 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.103.219 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.103.27 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.14.237 state: True
+04/01/2018 03:06:29 PM skip id d9681 with value 6
+04/01/2018 03:06:29 PM insert new hw id d727 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.29.47 state: True
+04/01/2018 03:06:29 PM insert new hw id d12400 state: True
+04/01/2018 03:06:29 PM insert new hw id 172.28.11.118 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.16.216 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.8.136 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.19.105 state: True
+04/01/2018 03:06:30 PM insert new hw id d9661 state: True
+04/01/2018 03:06:30 PM insert new hw id d10761 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.110.26 state: True
+04/01/2018 03:06:30 PM insert new hw id d11239 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.112.250 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.3.43 state: True
+04/01/2018 03:06:30 PM insert new hw id d12339 state: True
+04/01/2018 03:06:30 PM insert new hw id d10696 state: True
+04/01/2018 03:06:30 PM insert new hw id d11153 state: True
+04/01/2018 03:06:30 PM insert new hw id d11876 state: True
+04/01/2018 03:06:30 PM insert new hw id d697 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.18.181 state: True
+04/01/2018 03:06:30 PM insert new hw id d11546 state: True
+04/01/2018 03:06:30 PM insert new hw id d12258 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.7.224 state: True
+04/01/2018 03:06:30 PM insert new hw id d11771 state: True
+04/01/2018 03:06:30 PM insert new hw id d12341 state: True
+04/01/2018 03:06:30 PM insert new hw id d11335 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.50.35 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.50.59 state: True
+04/01/2018 03:06:30 PM insert new hw id d10715 state: True
+04/01/2018 03:06:30 PM insert new hw id d10741 state: True
+04/01/2018 03:06:30 PM insert new hw id d9986 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.13.62 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.102.104 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.110.203 state: True
+04/01/2018 03:06:30 PM insert new hw id d10821 state: True
+04/01/2018 03:06:30 PM insert new hw id d11139 state: True
+04/01/2018 03:06:30 PM insert new hw id d11381 state: True
+04/01/2018 03:06:30 PM insert new hw id d9868 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.3.21 state: True
+04/01/2018 03:06:30 PM insert new hw id d12452 state: True
+04/01/2018 03:06:30 PM skip id d2649 with value 7
+04/01/2018 03:06:30 PM insert new hw id d12207 state: True
+04/01/2018 03:06:30 PM insert new hw id 172.28.6.72 state: True
+04/01/2018 03:06:30 PM insert new hw id d11751 state: True
+04/01/2018 03:06:30 PM insert new hw id d9688 state: True
+04/01/2018 03:06:30 PM insert new hw id d12279 state: True
+04/01/2018 03:06:30 PM insert new hw id d11096 state: True
+04/01/2018 03:06:30 PM insert new hw id d10642 state: True
+04/01/2018 03:06:30 PM insert new hw id d11672 state: True
+04/01/2018 03:06:31 PM insert new hw id d11822 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.15.144 state: True
+04/01/2018 03:06:31 PM insert new hw id d10491 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.16.223 state: True
+04/01/2018 03:06:31 PM insert new hw id d9939 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.9.38 state: True
+04/01/2018 03:06:31 PM insert new hw id d10681 state: True
+04/01/2018 03:06:31 PM insert new hw id d653 state: True
+04/01/2018 03:06:31 PM insert new hw id d8534 state: True
+04/01/2018 03:06:31 PM skip id 172.28.10.251 with value 32
+04/01/2018 03:06:31 PM skip id d735 with value 6
+04/01/2018 03:06:31 PM insert new hw id d11620 state: True
+04/01/2018 03:06:31 PM insert new hw id d11649 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.110.194 state: True
+04/01/2018 03:06:31 PM skip id d9463 with value 118
+04/01/2018 03:06:31 PM insert new hw id d10527 state: True
+04/01/2018 03:06:31 PM insert new hw id d9994 state: True
+04/01/2018 03:06:31 PM insert new hw id d10861 state: True
+04/01/2018 03:06:31 PM insert new hw id d10460 state: True
+04/01/2018 03:06:31 PM insert new hw id d11453 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.10.250 state: True
+04/01/2018 03:06:31 PM insert new hw id d11693 state: True
+04/01/2018 03:06:31 PM insert new hw id d10635 state: True
+04/01/2018 03:06:31 PM skip id 172.28.110.204 with value 7
+04/01/2018 03:06:31 PM insert new hw id d12281 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.104.221 state: True
+04/01/2018 03:06:31 PM insert new hw id d9394 state: True
+04/01/2018 03:06:31 PM insert new hw id d10650 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.17.68 state: True
+04/01/2018 03:06:31 PM insert new hw id d9586 state: True
+04/01/2018 03:06:31 PM insert new hw id d11168 state: True
+04/01/2018 03:06:31 PM insert new hw id d11648 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.29.63 state: True
+04/01/2018 03:06:31 PM insert new hw id d7434 state: True
+04/01/2018 03:06:31 PM insert new hw id d11725 state: True
+04/01/2018 03:06:31 PM insert new hw id d12403 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.3.100 state: True
+04/01/2018 03:06:31 PM insert new hw id d11365 state: True
+04/01/2018 03:06:31 PM insert new hw id d11508 state: True
+04/01/2018 03:06:31 PM insert new hw id d8999 state: True
+04/01/2018 03:06:31 PM insert new hw id d11354 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.28.212 state: True
+04/01/2018 03:06:31 PM skip id d9983 with value 10
+04/01/2018 03:06:31 PM insert new hw id d11172 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.104.60 state: True
+04/01/2018 03:06:31 PM insert new hw id d10566 state: True
+04/01/2018 03:06:31 PM insert new hw id d11388 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.20.163 state: True
+04/01/2018 03:06:31 PM insert new hw id 172.28.100.171 state: True
+04/01/2018 03:06:31 PM skip id 172.28.3.129 with value 31
+04/01/2018 03:06:31 PM insert new hw id d11702 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.29.81 state: True
+04/01/2018 03:06:32 PM insert new hw id d11556 state: True
+04/01/2018 03:06:32 PM insert new hw id d12454 state: True
+04/01/2018 03:06:32 PM insert new hw id d11842 state: True
+04/01/2018 03:06:32 PM insert new hw id d12262 state: True
+04/01/2018 03:06:32 PM skip id d9555 with value 26
+04/01/2018 03:06:32 PM insert new hw id d11427 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.110.215 state: True
+04/01/2018 03:06:32 PM insert new hw id d9011 state: True
+04/01/2018 03:06:32 PM insert new hw id d11499 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.104.146 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.14.238 state: True
+04/01/2018 03:06:32 PM insert new hw id d9722 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.100.21 state: True
+04/01/2018 03:06:32 PM insert new hw id d11511 state: True
+04/01/2018 03:06:32 PM insert new hw id d9822 state: True
+04/01/2018 03:06:32 PM insert new hw id d9953 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.7.62 state: True
+04/01/2018 03:06:32 PM insert new hw id d12427 state: True
+04/01/2018 03:06:32 PM insert new hw id d11729 state: True
+04/01/2018 03:06:32 PM insert new hw id d10849 state: True
+04/01/2018 03:06:32 PM skip id d9985 with value 17
+04/01/2018 03:06:32 PM insert new hw id 172.28.16.233 state: True
+04/01/2018 03:06:32 PM insert new hw id d12439 state: True
+04/01/2018 03:06:32 PM skip id 172.28.8.156 with value 32
+04/01/2018 03:06:32 PM insert new hw id d11264 state: True
+04/01/2018 03:06:32 PM insert new hw id d600 state: True
+04/01/2018 03:06:32 PM insert new hw id d9789 state: True
+04/01/2018 03:06:32 PM insert new hw id d11826 state: True
+04/01/2018 03:06:32 PM insert new hw id d684 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.29.39 state: True
+04/01/2018 03:06:32 PM insert new hw id d6819 state: True
+04/01/2018 03:06:32 PM insert new hw id d12428 state: True
+04/01/2018 03:06:32 PM skip id d11750 with value 7
+04/01/2018 03:06:32 PM skip id d9583 with value 7
+04/01/2018 03:06:32 PM insert new hw id d689 state: True
+04/01/2018 03:06:32 PM skip id d11134 with value 140
+04/01/2018 03:06:32 PM insert new hw id d11389 state: True
+04/01/2018 03:06:32 PM skip id d10973 with value 14
+04/01/2018 03:06:32 PM insert new hw id d12242 state: True
+04/01/2018 03:06:32 PM insert new hw id d9933 state: True
+04/01/2018 03:06:32 PM insert new hw id d11562 state: True
+04/01/2018 03:06:32 PM insert new hw id d10627 state: True
+04/01/2018 03:06:32 PM insert new hw id d128 state: True
+04/01/2018 03:06:32 PM insert new hw id 172.28.108.221 state: True
+04/01/2018 03:06:32 PM insert new hw id d11635 state: True
+04/01/2018 03:06:33 PM insert new hw id d9677 state: True
+04/01/2018 03:06:33 PM insert new hw id d711 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.16.25 state: True
+04/01/2018 03:06:33 PM insert new hw id d745 state: True
+04/01/2018 03:06:33 PM insert new hw id d9293 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.100.118 state: True
+04/01/2018 03:06:33 PM insert new hw id d11636 state: True
+04/01/2018 03:06:33 PM insert new hw id d10848 state: True
+04/01/2018 03:06:33 PM insert new hw id d10472 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.103.59 state: True
+04/01/2018 03:06:33 PM insert new hw id d11394 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.116.73 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.112.184 state: True
+04/01/2018 03:06:33 PM insert new hw id d9936 state: True
+04/01/2018 03:06:33 PM insert new hw id d590 state: True
+04/01/2018 03:06:33 PM skip id d9479 with value 12
+04/01/2018 03:06:33 PM insert new hw id 172.28.2.48 state: True
+04/01/2018 03:06:33 PM insert new hw id d10557 state: True
+04/01/2018 03:06:33 PM insert new hw id d707 state: True
+04/01/2018 03:06:33 PM insert new hw id d11738 state: True
+04/01/2018 03:06:33 PM insert new hw id d11581 state: True
+04/01/2018 03:06:33 PM insert new hw id d8580 state: True
+04/01/2018 03:06:33 PM insert new hw id d11818 state: True
+04/01/2018 03:06:33 PM insert new hw id d11305 state: True
+04/01/2018 03:06:33 PM skip id d11652 with value 524
+04/01/2018 03:06:33 PM insert new hw id d11500 state: True
+04/01/2018 03:06:33 PM insert new hw id d11496 state: True
+04/01/2018 03:06:33 PM insert new hw id d12036 state: True
+04/01/2018 03:06:33 PM insert new hw id d11686 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.100.185 state: True
+04/01/2018 03:06:33 PM insert new hw id d691 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.110.218 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.11.206 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.10.44 state: True
+04/01/2018 03:06:33 PM skip id d665 with value 233
+04/01/2018 03:06:33 PM insert new hw id 172.28.104.35 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.104.218 state: True
+04/01/2018 03:06:33 PM insert new hw id 172.28.3.125 state: True
+04/01/2018 03:06:33 PM insert new hw id d12440 state: True
+04/01/2018 03:06:33 PM 308 lines : check by 6.704383 seconds
+04/01/2018 03:06:44 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:06:44 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:06:54 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:06:54 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:07:05 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:07:05 PM 0 lines : check by 0.0 seconds
+04/01/2018 03:07:15 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:07:15 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:07:26 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:07:26 PM 0 lines : check by 0.011 seconds
+04/01/2018 03:07:36 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:07:36 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:07:47 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:07:47 PM 0 lines : check by 0.0 seconds
+04/01/2018 03:07:57 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:07:57 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:08:22 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:08:22 PM 0 lines : check by 0.002 seconds
+04/01/2018 03:08:33 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:08:33 PM 0 lines : check by 0.0 seconds
+04/01/2018 03:08:43 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:08:43 PM cant parse line "
+"
+04/01/2018 03:08:43 PM skip id d9583 with value 7
+04/01/2018 03:08:43 PM insert new hw id 172.28.110.26 state: True
+04/01/2018 03:08:43 PM insert new hw id d691 state: True
+04/01/2018 03:08:43 PM insert new hw id 172.28.29.63 state: True
+04/01/2018 03:08:43 PM insert new hw id 172.28.15.144 state: True
+04/01/2018 03:08:43 PM insert new hw id d11556 state: True
+04/01/2018 03:08:43 PM insert new hw id 172.28.112.184 state: True
+04/01/2018 03:08:43 PM insert new hw id d9688 state: True
+04/01/2018 03:08:43 PM skip id d8797 with value 8
+04/01/2018 03:08:43 PM insert new hw id d659 state: True
+04/01/2018 03:08:43 PM skip id d12193 with value 6
+04/01/2018 03:08:43 PM insert new hw id d12242 state: True
+04/01/2018 03:08:43 PM insert new hw id d10848 state: True
+04/01/2018 03:08:43 PM insert new hw id d10557 state: True
+04/01/2018 03:08:43 PM insert new hw id d11096 state: True
+04/01/2018 03:08:43 PM insert new hw id 172.28.117.140 state: True
+04/01/2018 03:08:43 PM insert new hw id 172.28.104.221 state: True
+04/01/2018 03:08:43 PM skip id d11843 with value 517
+04/01/2018 03:08:43 PM insert new hw id 172.28.14.230 state: True
+04/01/2018 03:08:43 PM insert new hw id d12341 state: True
+04/01/2018 03:08:43 PM insert new hw id 172.28.108.221 state: True
+04/01/2018 03:08:43 PM insert new hw id d11239 state: True
+04/01/2018 03:08:43 PM skip id 172.28.110.204 with value 7
+04/01/2018 03:08:44 PM insert new hw id d12414 state: True
+04/01/2018 03:08:44 PM insert new hw id d10681 state: True
+04/01/2018 03:08:44 PM insert new hw id d9677 state: True
+04/01/2018 03:08:44 PM skip id d11652 with value 524
+04/01/2018 03:08:44 PM insert new hw id d10701 state: True
+04/01/2018 03:08:44 PM insert new hw id d11495 state: True
+04/01/2018 03:08:44 PM insert new hw id d11357 state: True
+04/01/2018 03:08:44 PM insert new hw id d11729 state: True
+04/01/2018 03:08:44 PM insert new hw id d11558 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.103.59 state: True
+04/01/2018 03:08:44 PM insert new hw id d10642 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.29.73 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.120.20 state: True
+04/01/2018 03:08:44 PM insert new hw id d11356 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.106.173 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.29.116 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.29.39 state: True
+04/01/2018 03:08:44 PM insert new hw id d7925 state: True
+04/01/2018 03:08:44 PM insert new hw id d11305 state: True
+04/01/2018 03:08:44 PM insert new hw id d745 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.103.219 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.103.27 state: True
+04/01/2018 03:08:44 PM skip id d2649 with value 7
+04/01/2018 03:08:44 PM insert new hw id d11914 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.9.166 state: True
+04/01/2018 03:08:44 PM skip id 172.28.10.251 with value 32
+04/01/2018 03:08:44 PM skip id d9555 with value 26
+04/01/2018 03:08:44 PM insert new hw id 172.28.16.45 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.103.217 state: True
+04/01/2018 03:08:44 PM insert new hw id d11614 state: True
+04/01/2018 03:08:44 PM insert new hw id d10727 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.9.38 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.29.47 state: True
+04/01/2018 03:08:44 PM insert new hw id d11139 state: True
+04/01/2018 03:08:44 PM insert new hw id d11826 state: True
+04/01/2018 03:08:44 PM insert new hw id d11702 state: True
+04/01/2018 03:08:44 PM insert new hw id d11496 state: True
+04/01/2018 03:08:44 PM skip id d713 with value 232
+04/01/2018 03:08:44 PM insert new hw id 172.28.120.194 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.10.138 state: True
+04/01/2018 03:08:44 PM insert new hw id d10460 state: True
+04/01/2018 03:08:44 PM insert new hw id d579 state: True
+04/01/2018 03:08:44 PM insert new hw id d10896 state: True
+04/01/2018 03:08:44 PM insert new hw id d9789 state: True
+04/01/2018 03:08:44 PM insert new hw id 172.28.103.204 state: True
+04/01/2018 03:08:45 PM insert new hw id d11686 state: True
+04/01/2018 03:08:45 PM skip id d583 with value 232
+04/01/2018 03:08:45 PM insert new hw id d12452 state: True
+04/01/2018 03:08:45 PM insert new hw id d11242 state: True
+04/01/2018 03:08:45 PM insert new hw id d11771 state: True
+04/01/2018 03:08:45 PM insert new hw id d12427 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.104.60 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.10.179 state: True
+04/01/2018 03:08:45 PM insert new hw id d9936 state: True
+04/01/2018 03:08:45 PM insert new hw id d10761 state: True
+04/01/2018 03:08:45 PM insert new hw id d10805 state: True
+04/01/2018 03:08:45 PM insert new hw id d11375 state: True
+04/01/2018 03:08:45 PM insert new hw id d11548 state: True
+04/01/2018 03:08:45 PM insert new hw id d10821 state: True
+04/01/2018 03:08:45 PM insert new hw id d11362 state: True
+04/01/2018 03:08:45 PM insert new hw id d697 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.110.215 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.29.79 state: True
+04/01/2018 03:08:45 PM insert new hw id d11581 state: True
+04/01/2018 03:08:45 PM insert new hw id d11508 state: True
+04/01/2018 03:08:45 PM insert new hw id d9933 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.17.11 state: True
+04/01/2018 03:08:45 PM insert new hw id d11394 state: True
+04/01/2018 03:08:45 PM insert new hw id d10627 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.28.212 state: True
+04/01/2018 03:08:45 PM insert new hw id d12454 state: True
+04/01/2018 03:08:45 PM insert new hw id d11153 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.11.118 state: True
+04/01/2018 03:08:45 PM insert new hw id d11822 state: True
+04/01/2018 03:08:45 PM insert new hw id d11778 state: True
+04/01/2018 03:08:45 PM insert new hw id d12237 state: True
+04/01/2018 03:08:45 PM insert new hw id d10554 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.14.238 state: True
+04/01/2018 03:08:45 PM insert new hw id d11338 state: True
+04/01/2018 03:08:45 PM insert new hw id d9994 state: True
+04/01/2018 03:08:45 PM skip id d9681 with value 6
+04/01/2018 03:08:45 PM insert new hw id d9291 state: True
+04/01/2018 03:08:45 PM insert new hw id d9589 state: True
+04/01/2018 03:08:45 PM insert new hw id d11381 state: True
+04/01/2018 03:08:45 PM insert new hw id d9953 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.14.241 state: True
+04/01/2018 03:08:45 PM insert new hw id 172.28.17.67 state: True
+04/01/2018 03:08:46 PM insert new hw id d11388 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.16.233 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.100.118 state: True
+04/01/2018 03:08:46 PM insert new hw id d11650 state: True
+04/01/2018 03:08:46 PM insert new hw id d550 state: True
+04/01/2018 03:08:46 PM insert new hw id d10893 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.110.214 state: True
+04/01/2018 03:08:46 PM insert new hw id d12281 state: True
+04/01/2018 03:08:46 PM insert new hw id d12428 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.3.100 state: True
+04/01/2018 03:08:46 PM insert new hw id d9939 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.6.151 state: True
+04/01/2018 03:08:46 PM insert new hw id d11427 state: True
+04/01/2018 03:08:46 PM insert new hw id d11725 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.13.76 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.102.199 state: True
+04/01/2018 03:08:46 PM insert new hw id d6819 state: True
+04/01/2018 03:08:46 PM skip id d665 with value 233
+04/01/2018 03:08:46 PM insert new hw id 172.28.29.81 state: True
+04/01/2018 03:08:46 PM skip id d9479 with value 12
+04/01/2018 03:08:46 PM insert new hw id 172.28.100.21 state: True
+04/01/2018 03:08:46 PM insert new hw id d10715 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.110.218 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.104.218 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.29.12 state: True
+04/01/2018 03:08:46 PM insert new hw id d9722 state: True
+04/01/2018 03:08:46 PM insert new hw id d11648 state: True
+04/01/2018 03:08:46 PM insert new hw id d653 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.100.171 state: True
+04/01/2018 03:08:46 PM insert new hw id d11634 state: True
+04/01/2018 03:08:46 PM insert new hw id d9868 state: True
+04/01/2018 03:08:46 PM insert new hw id d11693 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.7.118 state: True
+04/01/2018 03:08:46 PM skip id d9983 with value 10
+04/01/2018 03:08:46 PM insert new hw id 172.28.14.237 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.50.59 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.6.72 state: True
+04/01/2018 03:08:46 PM insert new hw id d11543 state: True
+04/01/2018 03:08:46 PM insert new hw id d10491 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.102.104 state: True
+04/01/2018 03:08:46 PM insert new hw id d11635 state: True
+04/01/2018 03:08:46 PM insert new hw id d8580 state: True
+04/01/2018 03:08:46 PM skip id d11814 with value 57
+04/01/2018 03:08:46 PM insert new hw id 172.28.11.103 state: True
+04/01/2018 03:08:46 PM insert new hw id d10607 state: True
+04/01/2018 03:08:46 PM insert new hw id d11657 state: True
+04/01/2018 03:08:46 PM skip id d9463 with value 118
+04/01/2018 03:08:46 PM insert new hw id d10734 state: True
+04/01/2018 03:08:46 PM skip id d12450 with value 10
+04/01/2018 03:08:46 PM insert new hw id d11658 state: True
+04/01/2018 03:08:46 PM insert new hw id d11354 state: True
+04/01/2018 03:08:46 PM insert new hw id 172.28.10.250 state: True
+04/01/2018 03:08:46 PM insert new hw id d11738 state: True
+04/01/2018 03:08:47 PM insert new hw id d12440 state: True
+04/01/2018 03:08:47 PM insert new hw id d9700 state: True
+04/01/2018 03:08:47 PM insert new hw id d11876 state: True
+04/01/2018 03:08:47 PM skip id d10973 with value 14
+04/01/2018 03:08:47 PM insert new hw id d11335 state: True
+04/01/2018 03:08:47 PM insert new hw id d598 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.110.203 state: True
+04/01/2018 03:08:47 PM insert new hw id d689 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.104.35 state: True
+04/01/2018 03:08:47 PM insert new hw id d12036 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.9.223 state: True
+04/01/2018 03:08:47 PM insert new hw id d7434 state: True
+04/01/2018 03:08:47 PM insert new hw id d11264 state: True
+04/01/2018 03:08:47 PM skip id 172.28.3.129 with value 31
+04/01/2018 03:08:47 PM insert new hw id d10741 state: True
+04/01/2018 03:08:47 PM insert new hw id d10726 state: True
+04/01/2018 03:08:47 PM insert new hw id d10787 state: True
+04/01/2018 03:08:47 PM insert new hw id d11562 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.7.62 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.29.133 state: True
+04/01/2018 03:08:47 PM insert new hw id d590 state: True
+04/01/2018 03:08:47 PM insert new hw id d11700 state: True
+04/01/2018 03:08:47 PM insert new hw id d11168 state: True
+04/01/2018 03:08:47 PM insert new hw id d12279 state: True
+04/01/2018 03:08:47 PM skip id d610 with value 230
+04/01/2018 03:08:47 PM insert new hw id d9934 state: True
+04/01/2018 03:08:47 PM insert new hw id d12403 state: True
+04/01/2018 03:08:47 PM insert new hw id d11365 state: True
+04/01/2018 03:08:47 PM insert new hw id d11551 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.16.223 state: True
+04/01/2018 03:08:47 PM insert new hw id d9683 state: True
+04/01/2018 03:08:47 PM skip id d10484 with value 9
+04/01/2018 03:08:47 PM insert new hw id d12439 state: True
+04/01/2018 03:08:47 PM insert new hw id d10633 state: True
+04/01/2018 03:08:47 PM insert new hw id d600 state: True
+04/01/2018 03:08:47 PM insert new hw id d11737 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.16.201 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.11.206 state: True
+04/01/2018 03:08:47 PM insert new hw id d9011 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.17.68 state: True
+04/01/2018 03:08:47 PM insert new hw id d11165 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.16.25 state: True
+04/01/2018 03:08:47 PM insert new hw id d573 state: True
+04/01/2018 03:08:47 PM insert new hw id d703 state: True
+04/01/2018 03:08:47 PM insert new hw id 172.28.110.194 state: True
+04/01/2018 03:08:47 PM insert new hw id d10532 state: True
+04/01/2018 03:08:47 PM insert new hw id d11636 state: True
+04/01/2018 03:08:47 PM insert new hw id d9059 state: True
+04/01/2018 03:08:48 PM insert new hw id d10696 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.16.216 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.17.26 state: True
+04/01/2018 03:08:48 PM insert new hw id d10861 state: True
+04/01/2018 03:08:48 PM insert new hw id d11166 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.100.185 state: True
+04/01/2018 03:08:48 PM insert new hw id d11500 state: True
+04/01/2018 03:08:48 PM insert new hw id d10527 state: True
+04/01/2018 03:08:48 PM insert new hw id d9986 state: True
+04/01/2018 03:08:48 PM insert new hw id d9822 state: True
+04/01/2018 03:08:48 PM insert new hw id d11389 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.18.181 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.20.163 state: True
+04/01/2018 03:08:48 PM insert new hw id d128 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.9.249 state: True
+04/01/2018 03:08:48 PM insert new hw id d12197 state: True
+04/01/2018 03:08:48 PM insert new hw id d12262 state: True
+04/01/2018 03:08:48 PM skip id d11750 with value 7
+04/01/2018 03:08:48 PM insert new hw id d684 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.13.62 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.3.21 state: True
+04/01/2018 03:08:48 PM skip id d735 with value 6
+04/01/2018 03:08:48 PM insert new hw id 172.28.4.250 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.112.250 state: True
+04/01/2018 03:08:48 PM insert new hw id d10753 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.50.35 state: True
+04/01/2018 03:08:48 PM insert new hw id d11547 state: True
+04/01/2018 03:08:48 PM insert new hw id d707 state: True
+04/01/2018 03:08:48 PM insert new hw id d8568 state: True
+04/01/2018 03:08:48 PM insert new hw id d11378 state: True
+04/01/2018 03:08:48 PM insert new hw id d10852 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.19.105 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.8.136 state: True
+04/01/2018 03:08:48 PM insert new hw id d11318 state: True
+04/01/2018 03:08:48 PM insert new hw id d11256 state: True
+04/01/2018 03:08:48 PM insert new hw id d10635 state: True
+04/01/2018 03:08:48 PM insert new hw id d9293 state: True
+04/01/2018 03:08:48 PM insert new hw id d11672 state: True
+04/01/2018 03:08:48 PM insert new hw id d10566 state: True
+04/01/2018 03:08:48 PM insert new hw id d11554 state: True
+04/01/2018 03:08:48 PM insert new hw id d11751 state: True
+04/01/2018 03:08:48 PM insert new hw id d551 state: True
+04/01/2018 03:08:48 PM skip id d9985 with value 17
+04/01/2018 03:08:48 PM insert new hw id d9984 state: True
+04/01/2018 03:08:48 PM insert new hw id d9586 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.50.57 state: True
+04/01/2018 03:08:48 PM skip id 172.28.8.156 with value 32
+04/01/2018 03:08:48 PM insert new hw id 172.28.105.245 state: True
+04/01/2018 03:08:48 PM insert new hw id 172.28.7.224 state: True
+04/01/2018 03:08:49 PM insert new hw id d11453 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.102.181 state: True
+04/01/2018 03:08:49 PM insert new hw id d12400 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.0.163 state: True
+04/01/2018 03:08:49 PM insert new hw id d10849 state: True
+04/01/2018 03:08:49 PM insert new hw id d12258 state: True
+04/01/2018 03:08:49 PM insert new hw id d11582 state: True
+04/01/2018 03:08:49 PM insert new hw id d687 state: True
+04/01/2018 03:08:49 PM skip id d9675 with value 12
+04/01/2018 03:08:49 PM insert new hw id d11649 state: True
+04/01/2018 03:08:49 PM insert new hw id d11620 state: True
+04/01/2018 03:08:49 PM insert new hw id d9394 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.116.73 state: True
+04/01/2018 03:08:49 PM insert new hw id d12339 state: True
+04/01/2018 03:08:49 PM insert new hw id d11135 state: True
+04/01/2018 03:08:49 PM insert new hw id d11367 state: True
+04/01/2018 03:08:49 PM skip id d11134 with value 140
+04/01/2018 03:08:49 PM insert new hw id d11172 state: True
+04/01/2018 03:08:49 PM insert new hw id d10650 state: True
+04/01/2018 03:08:49 PM insert new hw id d711 state: True
+04/01/2018 03:08:49 PM skip id d594 with value 229
+04/01/2018 03:08:49 PM insert new hw id 172.28.104.146 state: True
+04/01/2018 03:08:49 PM insert new hw id d12199 state: True
+04/01/2018 03:08:49 PM insert new hw id d10472 state: True
+04/01/2018 03:08:49 PM insert new hw id d12364 state: True
+04/01/2018 03:08:49 PM insert new hw id d10470 state: True
+04/01/2018 03:08:49 PM insert new hw id d8999 state: True
+04/01/2018 03:08:49 PM insert new hw id d11842 state: True
+04/01/2018 03:08:49 PM insert new hw id d727 state: True
+04/01/2018 03:08:49 PM insert new hw id d10551 state: True
+04/01/2018 03:08:49 PM insert new hw id d11499 state: True
+04/01/2018 03:08:49 PM insert new hw id d9661 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.3.43 state: True
+04/01/2018 03:08:49 PM insert new hw id d9692 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.2.48 state: True
+04/01/2018 03:08:49 PM skip id d10575 with value 7
+04/01/2018 03:08:49 PM insert new hw id 172.28.10.44 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.50.33 state: True
+04/01/2018 03:08:49 PM insert new hw id d8534 state: True
+04/01/2018 03:08:49 PM insert new hw id d11884 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.3.125 state: True
+04/01/2018 03:08:49 PM insert new hw id 172.28.9.19 state: True
+04/01/2018 03:08:49 PM insert new hw id d12207 state: True
+04/01/2018 03:08:49 PM insert new hw id d8714 state: True
+04/01/2018 03:08:49 PM insert new hw id d11609 state: True
+04/01/2018 03:08:49 PM insert new hw id d11546 state: True
+04/01/2018 03:08:49 PM insert new hw id d11818 state: True
+04/01/2018 03:08:49 PM insert new hw id d11511 state: True
+04/01/2018 03:08:49 PM 308 lines : check by 6.427367 seconds
+04/01/2018 03:09:00 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:09:00 PM 0 lines : check by 0.002 seconds
+04/01/2018 03:09:10 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:09:10 PM 0 lines : check by 0.001 seconds
+04/01/2018 03:09:21 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:09:21 PM 0 lines : check by 0.003 seconds
+04/01/2018 03:09:31 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:09:31 PM cant parse line "
+"
+04/01/2018 03:09:32 PM skip id d9583 with value 7
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id d8797 with value 8
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id d12193 with value 6
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id d11843 with value 517
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id 172.28.110.204 with value 7
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id d11652 with value 524
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id d2649 with value 7
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:32 PM Changes commit state: True
+04/01/2018 03:09:32 PM skip id 172.28.10.251 with value 32
+04/01/2018 03:09:32 PM skip id d9555 with value 26
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM skip id d713 with value 232
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM skip id d583 with value 232
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:33 PM Changes commit state: True
+04/01/2018 03:09:33 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM skip id d9681 with value 6
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM skip id d665 with value 233
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM skip id d9479 with value 12
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM skip id d9983 with value 10
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:34 PM Changes commit state: True
+04/01/2018 03:09:34 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id d11814 with value 57
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id d9463 with value 118
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id d12450 with value 10
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id d10973 with value 14
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id 172.28.3.129 with value 31
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id d610 with value 230
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM skip id d10484 with value 9
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:35 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:35 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM skip id d11750 with value 7
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM skip id d735 with value 6
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:36 PM Changes commit state: True
+04/01/2018 03:09:36 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM skip id d9985 with value 17
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM skip id 172.28.8.156 with value 32
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM skip id d9675 with value 12
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM skip id d11134 with value 140
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM skip id d594 with value 229
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM skip id d10575 with value 7
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:37 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:37 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM reset counter, current deltaTime:47.986583, cfg.deltaTime:5
+04/01/2018 03:09:38 PM Changes commit state: True
+04/01/2018 03:09:38 PM 308 lines : check by 6.134351 seconds
+04/01/2018 03:09:48 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:09:48 PM 0 lines : check by 0.001001 seconds
+04/01/2018 03:09:59 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 03:09:59 PM 0 lines : check by 0.001 seconds

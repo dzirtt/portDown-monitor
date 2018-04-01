@@ -44,8 +44,8 @@ def main():
                 log.info("cant get info from db {0}".format(result))
                 continue
 
-        print((datetime.now() - now).total_seconds())
-
+        procTime=(datetime.now() - now).total_seconds()
+        log.debug("{0} lines : check by {1} seconds".format(len(hw_ids_filtered),procTime))
         #delay process
         startDelayTime = datetime.now()
         delta = 0
@@ -79,7 +79,7 @@ def updateCounter(id, now, result, value):
     # delta < 0 its may be error in app. or wrong date on server betwen app
     # starts
     if deltaInSeconds > cfg.deltaTime or deltaInSeconds < -1:
-        args = (1, now, id)
+        args = (value, now, id)
         log.debug("reset counter, current deltaTime:{0}, cfg.deltaTime:{1}".format(
             deltaInSeconds, cfg.deltaTime))
     else:

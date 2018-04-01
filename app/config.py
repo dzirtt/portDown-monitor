@@ -24,9 +24,9 @@ maxPortDownPerOneScan = 5
 
 #in seconds
 #delta time from first port down
-deltaTime = 300
+deltaTime = 5
 #count of port for time deltaTime neet to down for trigger
 minimumPortDownCount = 5
 ###
 
-LogLevel="INFO"
+LogLevel="DEBUG"
