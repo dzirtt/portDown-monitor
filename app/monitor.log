@@ -5832,3 +5832,7 @@
 04/01/2018 10:43:35 PM current time: 2018-04-01 22:43:35.646171, minimum time: 2018-04-01 22:38:35.646171, cfg delta: 300
 04/01/2018 10:43:36 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
 04/01/2018 10:43:36 PM 0 lines : check by 0.0 seconds
+04/01/2018 10:44:06 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 10:44:06 PM 0 lines : check by 0.0 seconds
+04/01/2018 10:44:24 PM clear file D:\work\justlan\portMonitor\portDown-monitor\app\..\test\test.log
+04/01/2018 10:44:24 PM 0 lines : check by 0.001 seconds
