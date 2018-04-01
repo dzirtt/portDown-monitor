@@ -4,7 +4,7 @@ from collections import Counter
 
 def rsyslogFileWork(logFilePath):
     hwLogs = parseFile(logFilePath)
-    #_clearFile(logFilePath)
+    _clearFile(logFilePath)
     hwIdsOnly = []
 
     for line in hwLogs:

@@ -45,6 +45,7 @@ def main():
 
         procTime=(datetime.now() - now).total_seconds()
         log.debug("{0} lines : check by {1} seconds".format(len(hw_ids_filtered),procTime))
+
         #delay process
         startDelayTime = datetime.now()
         delta = 0
