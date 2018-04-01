@@ -3,13 +3,6 @@ import pymysql as mysql
 import logging as log
 import sql_templates
 
-def updateDb(hwid):
-    # db = _openConnection()
-    # cursor = db.cursor()
-    # cursor.execute(template)
-    pass
-
-
 def createTable(template):
     try:
         db = _openConnection()

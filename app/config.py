@@ -17,6 +17,16 @@ logFilePath=os.path.join(current_file_dir, 'monitor.log')
 #where store rsyslog file
 rsyslogFilePath=os.path.join(current_file_dir, '..\\test\\test.log')
 
+#check rsyslog log file delay
+#in seconds
+rotateDelay = 10
+maxPortDownPerOneScan = 5
+
 #in seconds
 #delta time from first port down
 deltaTime = 300
+#count of port for time deltaTime neet to down for trigger
+minimumPortDownCount = 5
+###
+
+LogLevel="INFO"

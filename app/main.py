@@ -1,5 +1,8 @@
 import config as cfg
-import sys, bugsapi, utils, os, db_worker,sql_templates
+import sys, os, utils, json
+import bugsapi
+import db_worker
+import sql_templates
 import time
 from datetime import datetime, timedelta
 import logging as log
@@ -10,47 +13,91 @@ from pathlib import Path
 def main():
     initLogging()
 
-    #rsyslog file exist
+    # rsyslog file exist
     if not Path(cfg.rsyslogFilePath).is_file():
         log.error('file {0} not exist'.format(cfg.rsyslogFilePath))
         sys.exit(1)
 
-    #check and init db tables
+    # check and init db tables
     returnCode = db_worker.checkAndInitTable()
-    if returnCode > 0 :
+    if returnCode > 0:
         sys.exit(returnCode)
 
-    count = 0
-    now = datetime.now()
+    while True:
+        now = datetime.now()
+        hw_ids = log_parser.rsyslogFileWork(cfg.rsyslogFilePath)
+        hw_ids_filtered = log_parser.filterPortDowns(hw_ids)
+        for id,value in hw_ids_filtered.items():
+
+            if value > cfg.maxPortDownPerOneScan:
+                log.info("skip id {0} with value {1}".format(id,value))
+                continue
+
+            # add if not in tables
+            result = getHwFromDbOrInsertNew(id, now, value)
+            if result == None:
+                continue
+
+            try:
+                updateCounter(id, now, result, value)
+            except:
+                log.info("cant get info from db {0}".format(result))
+                continue
+
+        print((datetime.now() - now).total_seconds())
+
+        #delay process
+        startDelayTime = datetime.now()
+        delta = 0
+
+        while delta < cfg.rotateDelay:
+            delta = (datetime.now() - startDelayTime).total_seconds()
+            time.sleep(0.5)
+
+
+
+    sys.exit(0)
+
+def test():
     hw_ids = log_parser.rsyslogFileWork(cfg.rsyslogFilePath)
-    for id in hw_ids:
-        result = getHwFromDbOrInsertNew(id, now)
-        if result == None:
-            continue
-
-        portDownDate = result[3]
-        deltaInSeconds = (now - portDownDate).total_seconds()
-
-        #delta < 0 its may be error in app. or wrong date on server betwen app starts
-        if deltaInSeconds > cfg.deltaTime or deltaInSeconds < 0:
-            log.debug("reset counter, current deltaTime: {0}, cfg.deltaTime: {1}".format(deltaInSeconds, cfg.deltaTime))
-            args=(1, now, id)
-            if utils.isIp(id):
-                state = db_worker.setQuery(sql_templates.update_by_ip, args)
-            else:
-                state = db_worker.setQuery(sql_templates.update_by_id, args)
-
-
-
-    print(count)
-
+    hw_ids_filtered = log_parser.filterPortDowns(hw_ids)
+    for id, count in hw_ids_filtered.items():
+        print("{0}:{1}".format(id,count))
+    #print(json.dumps(hw_ids_filtered, indent=2))
 
     #args = ("12")
     #result = db_worker.selectQuery(sql_templates.select_hw_by_id,args)
 
     #print("now: {0} || old: {1} || delta: {2} ".format(now,result[0][3],delta2))
 
-    sys.exit(0)
+
+def updateCounter(id, now, result, value):
+    currentCounter = result[2]
+    # first port down date
+    portDownDate = result[3]
+    deltaInSeconds = (now - portDownDate).total_seconds()
+    # delta < 0 its may be error in app. or wrong date on server betwen app
+    # starts
+    if deltaInSeconds > cfg.deltaTime or deltaInSeconds < -1:
+        args = (1, now, id)
+        log.debug("reset counter, current deltaTime:{0}, cfg.deltaTime:{1}".format(
+            deltaInSeconds, cfg.deltaTime))
+    else:
+        # increment counter
+        newCounter = currentCounter + value
+        args = (newCounter, portDownDate, id)
+        log.debug("update port counter on hw:{0} counter:{1}".format(id, newCounter))
+
+    # update counter
+    if utils.isIp(id):
+        state = db_worker.setQuery(sql_templates.update_by_ip, args)
+    else:
+        state = db_worker.setQuery(sql_templates.update_by_id, args)
+
+    log.debug("Changes commit state: {0}".format(state))
+
+    return True
+
 
 def resetCounterIfDeltaOut(id, now):
     if deltaInSeconds > cfg.deltaTime or deltaInSeconds < 0:
@@ -64,8 +111,9 @@ def resetCounterIfDeltaOut(id, now):
 
     return state
 
-def getHwFromDbOrInsertNew(id, now):
-    selResult=""
+
+def getHwFromDbOrInsertNew(id, now, value):
+    selResult = ""
     if utils.isIp(id):
         selResult = db_worker.selectQuery(sql_templates.select_hw_by_ip, id)
     else:
@@ -73,12 +121,12 @@ def getHwFromDbOrInsertNew(id, now):
 
     if selResult == None:
         if utils.isIp(id):
-            args = (None, id, "1", now)
+            args = (None, id, value, now)
             state = db_worker.setQuery(sql_templates.insert_new_hw, args)
 
             log.debug("insert new hw id {0} state: {1}".format(id, state))
         else:
-            args = (id, None, "1", now)
+            args = (id, None, value, now)
             state = db_worker.setQuery(sql_templates.insert_new_hw, args)
 
             log.debug("insert new hw id {0} state: {1}".format(id, state))
@@ -86,15 +134,17 @@ def getHwFromDbOrInsertNew(id, now):
     return selResult
 
 
-
 def getHwData(ip_or_id):
     data = bugsapi.getData(ip_or_id)
     return data
 
+
 def initLogging():
-    log.basicConfig(filename=cfg.logFilePath,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p',level=log.DEBUG)
-    #alose log to std out
+    log.basicConfig(filename=cfg.logFilePath, format='%(asctime)s %(message)s',
+                    datefmt='%m/%d/%Y %I:%M:%S %p', level=log.DEBUG)
+    # alose log to std out
     log.getLogger().addHandler(log.StreamHandler())
+    log.getLogger().setLevel(log.getLevelName(cfg.LogLevel))
 
 
 if __name__ == "__main__":
