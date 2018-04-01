@@ -1,6 +1,5 @@
 import config as cfg
 import sys, os, utils, json
-import bugsapi
 import db_worker
 import sql_templates
 import time
@@ -58,7 +57,7 @@ def main():
 
     sys.exit(0)
 
-def test():
+def _test():
     hw_ids = log_parser.rsyslogFileWork(cfg.rsyslogFilePath)
     hw_ids_filtered = log_parser.filterPortDowns(hw_ids)
     for id, count in hw_ids_filtered.items():
@@ -76,6 +75,7 @@ def updateCounter(id, now, result, value):
     # first port down date
     portDownDate = result[3]
     deltaInSeconds = (now - portDownDate).total_seconds()
+
     # delta < 0 its may be error in app. or wrong date on server betwen app
     # starts
     if deltaInSeconds > cfg.deltaTime or deltaInSeconds < -1:
@@ -98,20 +98,6 @@ def updateCounter(id, now, result, value):
 
     return True
 
-
-def resetCounterIfDeltaOut(id, now):
-    if deltaInSeconds > cfg.deltaTime or deltaInSeconds < 0:
-        log.debug("reset counter, current deltaTime: {0}, cfg.deltaTime: {1}".format(deltaInSeconds, cfg.deltaTime))
-
-        args = (1, now, id)
-        if utils.isIp(id):
-            state = db_worker.setQuery(sql_templates.update_by_ip, args)
-        else:
-            state = db_worker.setQuery(sql_templates.update_by_id, args)
-
-    return state
-
-
 def getHwFromDbOrInsertNew(id, now, value):
     selResult = ""
     if utils.isIp(id):
@@ -133,15 +119,9 @@ def getHwFromDbOrInsertNew(id, now, value):
 
     return selResult
 
-
-def getHwData(ip_or_id):
-    data = bugsapi.getData(ip_or_id)
-    return data
-
-
 def initLogging():
     log.basicConfig(filename=cfg.logFilePath, format='%(asctime)s %(message)s',
-                    datefmt='%m/%d/%Y %I:%M:%S %p', level=log.DEBUG)
+                    datefmt='%m/%d/%Y %I:%M:%S %p', level=log.getLevelName(cfg.LogLevel))
     # alose log to std out
     log.getLogger().addHandler(log.StreamHandler())
     log.getLogger().setLevel(log.getLevelName(cfg.LogLevel))

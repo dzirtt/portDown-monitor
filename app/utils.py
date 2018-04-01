@@ -1,4 +1,4 @@
-import ipaddress
+import ipaddress, bugsapi
 
 def isIp(ip):
     try:
@@ -12,3 +12,7 @@ def isIpOrId(ip_or_id):
             return True
 
     return False
+
+def getHwData(ip_or_id):
+    data = bugsapi.getData(ip_or_id)
+    return data

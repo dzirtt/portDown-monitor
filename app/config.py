@@ -24,9 +24,13 @@ maxPortDownPerOneScan = 5
 
 #in seconds
 #delta time from first port down
-deltaTime = 5
+deltaTime = 3000
 #count of port for time deltaTime neet to down for trigger
 minimumPortDownCount = 5
 ###
 
 LogLevel="DEBUG"
+
+#trigger config
+trigerLogFile = os.path.join(current_file_dir, 'trigger.log')
+cityWhiteList = ["Нововоронеж", "Губкин"]

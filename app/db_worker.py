@@ -93,13 +93,16 @@ def setQuery(template,args):
 
     return True
 
-def selectQuery(template,args):
+def selectQuery(template,args,all=False):
     try:
         db = _openConnection()
         cursor = db.cursor()
         cursor.execute(template,args)
 
-        data = cursor.fetchone()
+        if all:
+            data = cursor.fetchall()
+        else:
+            data = cursor.fetchone()
 
         cursor.close()
         db.close()
