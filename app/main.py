@@ -16,29 +16,76 @@ def main():
         sys.exit(1)
 
     #check and init db tables
-    returnCode = checkAndInitDB()
+    returnCode = db_worker.checkAndInitTable()
     if returnCode > 0 :
         sys.exit(returnCode)
 
-    #hwIds = rsyslogFileWork(cfg.rsyslogFilePath)
-    #print(len(hwIds))
-    #db_worker.updateDb(hwIds)
-
-    args = ("12")
-    result = db_worker.selectQuery(sql_templates.select_hw_by_id,args)
+    count = 0
     now = datetime.now()
-    delta = timedelta(seconds=120)
-    dateWithDelta = now - delta
+    hw_ids = log_parser.rsyslogFileWork(cfg.rsyslogFilePath)
+    for id in hw_ids:
+        result = getHwFromDbOrInsertNew(id, now)
+        if result == None:
+            continue
 
-    print("delta:{0} || now: {1} || delta: {2}".format(dateWithDelta, now, delta))
+        portDownDate = result[3]
+        deltaInSeconds = (now - portDownDate).total_seconds()
 
-    if result[0][3] > dateWithDelta:
-        print("True")
+        #delta < 0 its may be error in app. or wrong date on server betwen app starts
+        if deltaInSeconds > cfg.deltaTime or deltaInSeconds < 0:
+            log.debug("reset counter, current deltaTime: {0}, cfg.deltaTime: {1}".format(deltaInSeconds, cfg.deltaTime))
+            args=(1, now, id)
+            if utils.isIp(id):
+                state = db_worker.setQuery(sql_templates.update_by_ip, args)
+            else:
+                state = db_worker.setQuery(sql_templates.update_by_id, args)
 
 
-    #get file, split by line, extract id\ip, upload to bd
+
+    print(count)
+
+
+    #args = ("12")
+    #result = db_worker.selectQuery(sql_templates.select_hw_by_id,args)
+
+    #print("now: {0} || old: {1} || delta: {2} ".format(now,result[0][3],delta2))
 
     sys.exit(0)
+
+def resetCounterIfDeltaOut(id, now):
+    if deltaInSeconds > cfg.deltaTime or deltaInSeconds < 0:
+        log.debug("reset counter, current deltaTime: {0}, cfg.deltaTime: {1}".format(deltaInSeconds, cfg.deltaTime))
+
+        args = (1, now, id)
+        if utils.isIp(id):
+            state = db_worker.setQuery(sql_templates.update_by_ip, args)
+        else:
+            state = db_worker.setQuery(sql_templates.update_by_id, args)
+
+    return state
+
+def getHwFromDbOrInsertNew(id, now):
+    selResult=""
+    if utils.isIp(id):
+        selResult = db_worker.selectQuery(sql_templates.select_hw_by_ip, id)
+    else:
+        selResult = db_worker.selectQuery(sql_templates.select_hw_by_id, id)
+
+    if selResult == None:
+        if utils.isIp(id):
+            args = (None, id, "1", now)
+            state = db_worker.setQuery(sql_templates.insert_new_hw, args)
+
+            log.debug("insert new hw id {0} state: {1}".format(id, state))
+        else:
+            args = (id, None, "1", now)
+            state = db_worker.setQuery(sql_templates.insert_new_hw, args)
+
+            log.debug("insert new hw id {0} state: {1}".format(id, state))
+
+    return selResult
+
+
 
 def getHwData(ip_or_id):
     data = bugsapi.getData(ip_or_id)
@@ -49,34 +96,6 @@ def initLogging():
     #alose log to std out
     log.getLogger().addHandler(log.StreamHandler())
 
-def rsyslogFileWork(logFilePath):
-    hwLogs = log_parser.parseAndCleanFile(logFilePath)
-    hwIdsOnly = []
-
-    for line in hwLogs:
-        try:
-            hw = line.split(' ')[3]
-            if(utils.isIpOrId(hw)):
-                hwIdsOnly.append(hw)
-        except:
-            log.warning('cant parse line "{0}"'.format(line))
-            raise
-
-    return hwIdsOnly
-
-def checkAndInitDB():
-    if db_worker.testDBConnection():
-        if not db_worker.tableIsExist(cfg.db["hwTable"]):
-            if not db_worker.createTable(sql_templates.create_hardware_table):
-                log.error("cant create new hardware table from template '{0}''".format('create_hardware_table'))
-                return 2
-            else:
-                log.info("create new table hardware frrom template '{0}''".format('create_hardware_table'))
-    else:
-        log.error("cant connect to db with {0}".format(cfg.db))
-        return 2
-
-    return 0
 
 if __name__ == "__main__":
     main()

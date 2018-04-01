@@ -95,6 +95,7 @@ def setQuery(template,args):
         db.close()
     except:
         log.error("cant create table from template {0}".format(template))
+        raise
         return False
 
     return True
@@ -105,7 +106,7 @@ def selectQuery(template,args):
         cursor = db.cursor()
         cursor.execute(template,args)
 
-        data = cursor.fetchall()
+        data = cursor.fetchone()
 
         cursor.close()
         db.close()
@@ -123,3 +124,17 @@ def _openConnection():
         return None
 
     return db
+
+def checkAndInitTable():
+    if testDBConnection():
+        if not tableIsExist(cfg.db["hwTable"]):
+            if not createTable(sql_templates.create_hardware_table):
+                log.error("cant create new hardware table from template '{0}''".format('create_hardware_table'))
+                return 2
+            else:
+                log.info("create new table hardware frrom template '{0}''".format('create_hardware_table'))
+    else:
+        log.error("cant connect to db with {0}".format(cfg.db))
+        return 2
+
+    return 0

@@ -1,13 +1,28 @@
 import logging as log
+import utils
+
+def rsyslogFileWork(logFilePath):
+    hwLogs = parseAndCleanFile(logFilePath)
+    hwIdsOnly = []
+
+    for line in hwLogs:
+        try:
+            hw = line.split(' ')[3]
+            if(utils.isIpOrId(hw)):
+                hwIdsOnly.append(hw)
+        except:
+            log.warning('cant parse line "{0}"'.format(line))
+
+    return hwIdsOnly
 
 def parseAndCleanFile(logFilePath):
-    lines  = _parseFile(logFilePath)
+    lines  = _readFile(logFilePath)
     #_clearFile(logFilePath)
 
     return lines
 
 
-def _parseFile(logFilePath):
+def _readFile(logFilePath):
     f = open(logFilePath, "r")
     lines = f.readlines()
     f.close()

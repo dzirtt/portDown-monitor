@@ -16,3 +16,7 @@ logFilePath=os.path.join(current_file_dir, 'monitor.log')
 
 #where store rsyslog file
 rsyslogFilePath=os.path.join(current_file_dir, '..\\test\\test.log')
+
+#in seconds
+#delta time from first port down
+deltaTime = 300
