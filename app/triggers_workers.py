@@ -15,4 +15,4 @@ class triggerSMS(triggers):
 
 class stdOutTrigger(triggers):
     def action(self, text):
-        print(text)
+        print(text.encode("utf-8"))

@@ -122,11 +122,29 @@ def getHwFromDbOrInsertNew(id, now, value):
 
 def initLogging():
     log.basicConfig(filename=cfg.logFilePath, format='%(asctime)s %(message)s',
-                    datefmt='%m/%d/%Y %I:%M:%S %p', level=log.getLevelName(cfg.LogLevel))
+                    datefmt='%m/%d/%Y %H:%M:%S', level=log.getLevelName(cfg.LogLevel))
     # alose log to std out
     log.getLogger().addHandler(log.StreamHandler())
     log.getLogger().setLevel(log.getLevelName(cfg.LogLevel))
 
+def test():
+    hwLogs = log_parser.parseFile(cfg.rsyslogFilePath)
+    hwIdsOnly = []
 
+    for line in hwLogs:
+        try:
+            hw = line.split(' ')[3]
+            if not utils.isIpOrId(hw):
+                 hw = line.split(' ')[4]
+            
+            if(utils.isIpOrId(hw)):
+                hwIdsOnly.append(hw)
+                
+            print(hw)
+                
+        except:
+            raise
+            log.warning('cant parse line "{0}"'.format(line))
+    
 if __name__ == "__main__":
     main()

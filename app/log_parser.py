@@ -10,10 +10,14 @@ def rsyslogFileWork(logFilePath):
     for line in hwLogs:
         try:
             hw = line.split(' ')[3]
+            if not utils.isIpOrId(hw):
+                 hw = line.split(' ')[4]
+                 
             if(utils.isIpOrId(hw)):
                 hwIdsOnly.append(hw)
-
+                
         except:
+            raise
             log.warning('cant parse line "{0}"'.format(line))
 
     return hwIdsOnly
@@ -24,7 +28,6 @@ def filterPortDowns(hwids):
 
 def parseFile(logFilePath):
     lines  = _readFile(logFilePath)
-
     return lines
 
 

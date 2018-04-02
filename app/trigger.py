@@ -85,7 +85,7 @@ def main():
             for trig in triggers:
                 text = utils.prepareTransMsgForSMS(sw)
                 status = trig.action(text)
-                log.info("text content: {0}".format(text))
+                log.info("text content: {0}".format(text).encode('utf-8'))
 
             log.info("triger by id {0}".format(sw.id))
 
@@ -136,8 +136,8 @@ def _test():
 
 
 def initLogging():
-    log.basicConfig(filename=cfg.logFilePath, format='%(asctime)s %(message)s',
-                    datefmt='%m/%d/%Y %I:%M:%S %p', level=log.getLevelName(cfg.LogLevel))
+    log.basicConfig(filename=cfg.trigerLogFile, format='%(asctime)s %(message)s',
+                    datefmt='%m/%d/%Y %H:%M:%S', level=log.getLevelName(cfg.LogLevel))
     # alose log to std out
     log.getLogger().addHandler(log.StreamHandler())
     log.getLogger().setLevel(log.getLevelName(cfg.LogLevel))
