@@ -11,7 +11,7 @@ create_hardware_table = """CREATE TABLE `hardware` (
 	UNIQUE INDEX `sw_ip` (`sw_ip`)
 )"""
 
-drop_hardware_table = """ DROP TABLE `hardware` """
+drop_hardware_table = """ DROP TABLE hardware """
 
 select_hw_by_ip = """ SELECT sw_id, sw_ip, portsdown_count, first_portdown_time, last_message_send_time, is_notify_enable
        FROM hardware

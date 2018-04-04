@@ -17,7 +17,6 @@ def rsyslogFileWork(logFilePath):
                 hwIdsOnly.append(hw)
                 
         except:
-            raise
             log.warning('cant parse line "{0}"'.format(line))
 
     return hwIdsOnly

@@ -17,10 +17,19 @@ def main():
         log.error('file {0} not exist'.format(cfg.rsyslogFilePath))
         sys.exit(1)
 
+    #prepare start, clear table and logfile
+    if db_worker.testDBConnection():
+        if db_worker.tableIsExist(cfg.db["hwTable"]):
+            db_worker.initNewHardwareTables()
+    
+    log_parser._clearFile(cfg.rsyslogFilePath)
+
     # check and init db tables
     returnCode = db_worker.checkAndInitTable()
     if returnCode > 0:
         sys.exit(returnCode)
+
+
 
     while True:
         now = datetime.now()
@@ -70,6 +79,8 @@ def _test():
 
     #print("now: {0} || old: {1} || delta: {2} ".format(now,result[0][3],delta2))
 
+def dropTable(tableName):
+    return db_worker.createTable(sql_templates.drop_hardware_table)
 
 def updateCounter(id, now, result, value):
     currentCounter = result[2]

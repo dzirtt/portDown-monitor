@@ -87,8 +87,8 @@ def setQuery(template,args):
         cursor.close()
         db.close()
     except:
-        log.error("cant create table from template {0}".format(template))
         raise
+        log.error("cant add update db from template {0}".format(template))
         return False
 
     return True
@@ -107,7 +107,7 @@ def selectQuery(template,args,all=False):
         cursor.close()
         db.close()
     except:
-        log.error("cant create table from template {0}".format(template))
+        log.error("cant select from table with template {0}".format(template))
         return None
 
     return data
