@@ -31,6 +31,9 @@ def main():
     returnCode = db_worker.checkAndInitTable()
     if returnCode > 0:
         sys.exit(returnCode)
+
+    for trig in triggers:
+        log.info("Active msg trigger: {0}".format(trig.name()))
 ##
     while True:
         now = datetime.now()
@@ -65,7 +68,7 @@ def main():
             else:
                 hw_to_clean_only.append(sw)
 
-            # remove from trigger if notify disabled
+        # remove from trigger if notify disabled
         for sw in hw_to_triger:
             selResult = selectFromDBBySWObject(sw)
 
@@ -83,11 +86,11 @@ def main():
         for sw in hw_to_triger:
             setDataBySw(sw, args=[0, None, now, None])
 
+            text = formatMsg(sw)
             for trig in triggers:
-                text = formatMsg(sw)
                 status = trig.action(text)
-                log.info(u"text content: {0}".format(text))
 
+            log.info(u"text content: {0}".format(text))
             log.info("triger by id {0}".format(sw.id))
 
         startDelayTime = datetime.now()

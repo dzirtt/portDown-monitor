@@ -30,11 +30,11 @@ def sendMsg(msg):
     try:
         status = bot.sendMessage(chat_id=cfg.telegramGroupId, text=msg)
     except:
-        log.error("can't send message")
+        log.error("can't send telegram message")
         raise
 
     if status != None:
-        log.info("message send")
+        log.debug("message telegram send")
         return True
 
     return False
