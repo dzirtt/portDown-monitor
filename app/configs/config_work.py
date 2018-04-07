@@ -40,7 +40,3 @@ triggerDelay = 30
 trigerLogFile = '/var/log/monitor/trigger.log'
 cityWhiteList = ["Нововоронеж"]
 phoneList = ["79065869848"]
-
-#telegramApi
-telegramToken = '517051360:AAHRtf_77yzyHvBIBNo9m1OV8IDHpqYccV0'
-telegramGroupId = '-1001234901612'

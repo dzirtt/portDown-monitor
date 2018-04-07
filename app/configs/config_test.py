@@ -37,7 +37,3 @@ triggerDelay = 30
 trigerLogFile = os.path.join(current_file_dir, 'trigger.log')
 cityWhiteList = ["Нововоронеж", "Губкин"]
 phoneList = [""]
-
-#telegramApi
-telegramToken = '517051360:AAHRtf_77yzyHvBIBNo9m1OV8IDHpqYccV0'
-telegramGroupId = '-1001234901612'
