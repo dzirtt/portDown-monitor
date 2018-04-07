@@ -8,7 +8,7 @@ def sendSms(phone, text):
         data = {}
 
         data["phone"] = phone
-        data["text"] = text
+        data["text"] = utils.prepareTransMsgForSMS(text)
 
         dataBytes = bytes(urllib.parse.urlencode( data ).encode())
         responce = urllib.request.urlopen(cfg.smsGateApiURL, dataBytes);

@@ -128,7 +128,7 @@ def checkAndInitTable():
                 log.error("cant create new hardware table from template '{0}''".format('create_hardware_table'))
                 return 2
             else:
-                log.info("create new table hardware frrom template '{0}''".format('create_hardware_table'))
+                log.info("create new table hardware from template '{0}''".format('create_hardware_table'))
     else:
         log.error("cant connect to db with {0}".format(cfg.db))
         return 2

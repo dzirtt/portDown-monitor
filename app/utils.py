@@ -20,6 +20,4 @@ def getHwData(ip_or_id):
 
 def prepareTransMsgForSMS(info):
 #   id | говрод | улица | дом | подъезд
-    text = "{0} | {1} | {2} | {3} | {4}".format(
-        info.id, info.city, info.street, info.home_number, info.home_entrance)
     return translit(text, "uk", reversed=True)

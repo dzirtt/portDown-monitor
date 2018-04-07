@@ -21,15 +21,13 @@ def main():
     if db_worker.testDBConnection():
         if db_worker.tableIsExist(cfg.db["hwTable"]):
             db_worker.initNewHardwareTables()
-    
+
     log_parser._clearFile(cfg.rsyslogFilePath)
 
     # check and init db tables
     returnCode = db_worker.checkAndInitTable()
     if returnCode > 0:
         sys.exit(returnCode)
-
-
 
     while True:
         now = datetime.now()
@@ -53,7 +51,7 @@ def main():
                 continue
 
         procTime=(datetime.now() - now).total_seconds()
-        log.debug("{0} lines : check by {1} seconds".format(len(hw_ids_filtered),procTime))
+        log.info("{0} lines : check by {1} seconds".format(len(hw_ids_filtered),procTime))
 
         #delay process
         startDelayTime = datetime.now()
@@ -147,15 +145,15 @@ def test():
             hw = line.split(' ')[3]
             if not utils.isIpOrId(hw):
                  hw = line.split(' ')[4]
-            
+
             if(utils.isIpOrId(hw)):
                 hwIdsOnly.append(hw)
-                
+
             print(hw)
-                
+
         except:
             raise
             log.warning('cant parse line "{0}"'.format(line))
-    
+
 if __name__ == "__main__":
     main()

@@ -1,10 +1,10 @@
 import os
 #db
 db = {
-    'hostname':'127.0.0.1',
-    'dbName':'portmonitor',
-    'user':'monitor',
-    'password':'monitor',
+    'hostname':'192.168.1.51',
+    'dbName':'db_test',
+    'user':'test1',
+    'password':'test1',
     'hwTable':'hardware'
 }
 
@@ -13,12 +13,10 @@ smsGateApiURL='http://nms.kvant-telecom.ru/websms.cgi'
 
 #run srcipt dir
 current_file_dir = os.path.dirname(__file__)
-#logFilePath=os.path.join(current_file_dir, 'monitor.log')
-logFilePath='/var/log/monitor/port.log'
+logFilePath=os.path.join(current_file_dir, 'monitor.log')
 
 #where store rsyslog file
-#rsyslogFilePath=os.path.join(current_file_dir, '..\\test\\test.log')
-rsyslogFilePath='/var/log/monitor/monitor.log'
+rsyslogFilePath=os.path.join(current_file_dir, '..\\..\\test\\test.log')
 
 #check rsyslog log file delay
 #in seconds
@@ -36,8 +34,10 @@ LogLevel="INFO"
 
 #trigger config
 triggerDelay = 30
-#trigerLogFile = os.path.join(current_file_dir, 'trigger.log')
-trigerLogFile = '/var/log/monitor/trigger.log'
-cityWhiteList = ["Нововоронеж"]
-phoneList = ["79065869848"]
+trigerLogFile = os.path.join(current_file_dir, 'trigger.log')
+cityWhiteList = ["Нововоронеж", "Губкин"]
+phoneList = [""]
 
+#telegramApi
+telegramToken = '517051360:AAHRtf_77yzyHvBIBNo9m1OV8IDHpqYccV0'
+telegramGroupId = '-1001234901612'

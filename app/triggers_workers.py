@@ -1,5 +1,6 @@
 import smsApi, utils
 import config as cfg
+import telegramApi.telegramApi as telegaApi
 
 class triggers:
     def action(text):
@@ -15,4 +16,11 @@ class triggerSMS(triggers):
 
 class stdOutTrigger(triggers):
     def action(self, text):
-        print(text.encode("utf-8"))
+        print(text)
+
+class telegramTrigger(triggers):
+    def action(self, text):
+        telegaApi.sendMsg(text)
+
+    def __init__(self):
+        telegaApi.initTelegramBot()

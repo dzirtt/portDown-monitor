@@ -21,6 +21,7 @@ triggers = []
 def initTrigers():
     #triggers.append(triggers_workers.triggerSMS())
     triggers.append(triggers_workers.stdOutTrigger())
+    triggers.append(triggers_workers.telegramTrigger())
 
 
 def main():
@@ -83,9 +84,9 @@ def main():
             setDataBySw(sw, args=[0, None, now, None])
 
             for trig in triggers:
-                text = utils.prepareTransMsgForSMS(sw)
+                text = formatMsg(sw)
                 status = trig.action(text)
-                log.info("text content: {0}".format(text).encode('utf-8'))
+                log.info(u"text content: {0}".format(text))
 
             log.info("triger by id {0}".format(sw.id))
 
@@ -116,11 +117,11 @@ def selectFromDBBySWObject(sw):
     return selResult
 
 
-def prepareTransMsgForSMS(info):
+def formatMsg(info):
     #   id | говрод | улица | дом | подъезд
     text = "{0} | {1} | {2} | {3} | {4}".format(
         info.id, info.city, info.street, info.home_number, info.home_entrance)
-    return translit(text, "uk", reversed=True)
+    return text
 
 
 def _test():
@@ -132,7 +133,7 @@ def _test():
     for trig in triggers:
         text = utils.prepareTransMsgForSMS(trig)
         status = trig.action(translit(text, "uk", reversed=True))
-        log.debug("sms content: {0}".format(text))
+        log.debug("msg content: {0}".format(text.encode("utf-8")))
 
 
 def initLogging():
